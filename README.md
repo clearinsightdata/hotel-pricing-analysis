@@ -37,4 +37,4 @@ sur 60 jours — saisonnalité, impact événements, comparaison par catégorie.
 - notebooks/02_analyse_visualisations.ipynb — Analyse et visualisations
 
 ---
-*Projet réalisé par [ClearInsight](https://github.com/clearinsightdata)*
+*Projet réalisé par [ClearInsightdata](https://github.com/clearinsightdata)*
