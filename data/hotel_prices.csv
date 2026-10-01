@@ -1,0 +1,1801 @@
+ville,hotel,categorie,date,jour_semaine,mois,weekend,prix_nuit
+Nice,Hotel Negresco,5 étoiles,2024-06-01,Saturday,June,True,526.45
+Nice,Hotel Negresco,5 étoiles,2024-06-02,Sunday,June,True,588.68
+Nice,Hotel Negresco,5 étoiles,2024-06-03,Monday,June,False,470.88
+Nice,Hotel Negresco,5 étoiles,2024-06-04,Tuesday,June,False,458.88
+Nice,Hotel Negresco,5 étoiles,2024-06-05,Wednesday,June,False,419.04
+Nice,Hotel Negresco,5 étoiles,2024-06-06,Thursday,June,False,419.04
+Nice,Hotel Negresco,5 étoiles,2024-06-07,Friday,June,True,492.27
+Nice,Hotel Negresco,5 étoiles,2024-06-08,Saturday,June,True,579.55
+Nice,Hotel Negresco,5 étoiles,2024-06-09,Sunday,June,True,550.92
+Nice,Hotel Negresco,5 étoiles,2024-06-10,Monday,June,False,468.73
+Nice,Hotel Negresco,5 étoiles,2024-06-11,Tuesday,June,False,406.85
+Nice,Hotel Negresco,5 étoiles,2024-06-12,Wednesday,June,False,1723.02
+Nice,Hotel Negresco,5 étoiles,2024-06-13,Thursday,June,False,1679.72
+Nice,Hotel Negresco,5 étoiles,2024-06-14,Friday,June,True,1781.26
+Nice,Hotel Negresco,5 étoiles,2024-06-15,Saturday,June,True,1769.73
+Nice,Hotel Negresco,5 étoiles,2024-06-16,Sunday,June,True,1770.33
+Nice,Hotel Negresco,5 étoiles,2024-06-17,Monday,June,False,432.38
+Nice,Hotel Negresco,5 étoiles,2024-06-18,Tuesday,June,False,587.9
+Nice,Hotel Negresco,5 étoiles,2024-06-19,Wednesday,June,False,577.04
+Nice,Hotel Negresco,5 étoiles,2024-06-20,Thursday,June,False,560.57
+Nice,Hotel Negresco,5 étoiles,2024-06-21,Friday,June,True,717.7
+Nice,Hotel Negresco,5 étoiles,2024-06-22,Saturday,June,True,651.38
+Nice,Hotel Negresco,5 étoiles,2024-06-23,Sunday,June,True,517.55
+Nice,Hotel Negresco,5 étoiles,2024-06-24,Monday,June,False,437.97
+Nice,Hotel Negresco,5 étoiles,2024-06-25,Tuesday,June,False,446.05
+Nice,Hotel Negresco,5 étoiles,2024-06-26,Wednesday,June,False,475.67
+Nice,Hotel Negresco,5 étoiles,2024-06-27,Thursday,June,False,422.97
+Nice,Hotel Negresco,5 étoiles,2024-06-28,Friday,June,True,541.54
+Nice,Hotel Negresco,5 étoiles,2024-06-29,Saturday,June,True,549.98
+Nice,Hotel Negresco,5 étoiles,2024-06-30,Sunday,June,True,491.02
+Nice,Hotel Negresco,5 étoiles,2024-07-01,Monday,July,False,597.58
+Nice,Hotel Negresco,5 étoiles,2024-07-02,Tuesday,July,False,765.03
+Nice,Hotel Negresco,5 étoiles,2024-07-03,Wednesday,July,False,747.76
+Nice,Hotel Negresco,5 étoiles,2024-07-04,Thursday,July,False,892.53
+Nice,Hotel Negresco,5 étoiles,2024-07-05,Friday,July,True,1074.32
+Nice,Hotel Negresco,5 étoiles,2024-07-06,Saturday,July,True,1043.42
+Nice,Hotel Negresco,5 étoiles,2024-07-07,Sunday,July,True,674.57
+Nice,Hotel Negresco,5 étoiles,2024-07-08,Monday,July,False,537.93
+Nice,Hotel Negresco,5 étoiles,2024-07-09,Tuesday,July,False,606.56
+Nice,Hotel Negresco,5 étoiles,2024-07-10,Wednesday,July,False,578.0
+Nice,Hotel Negresco,5 étoiles,2024-07-11,Thursday,July,False,540.78
+Nice,Hotel Negresco,5 étoiles,2024-07-12,Friday,July,True,1122.12
+Nice,Hotel Negresco,5 étoiles,2024-07-13,Saturday,July,True,1018.61
+Nice,Hotel Negresco,5 étoiles,2024-07-14,Sunday,July,True,1215.15
+Nice,Hotel Negresco,5 étoiles,2024-07-15,Monday,July,False,890.84
+Nice,Hotel Negresco,5 étoiles,2024-07-16,Tuesday,July,False,966.42
+Nice,Hotel Negresco,5 étoiles,2024-07-17,Wednesday,July,False,562.97
+Nice,Hotel Negresco,5 étoiles,2024-07-18,Thursday,July,False,1057.23
+Nice,Hotel Negresco,5 étoiles,2024-07-19,Friday,July,True,1275.4
+Nice,Hotel Negresco,5 étoiles,2024-07-20,Saturday,July,True,1183.96
+Nice,Hotel Negresco,5 étoiles,2024-07-21,Sunday,July,True,1382.27
+Nice,Hotel Negresco,5 étoiles,2024-07-22,Monday,July,False,1110.94
+Nice,Hotel Negresco,5 étoiles,2024-07-23,Tuesday,July,False,636.42
+Nice,Hotel Negresco,5 étoiles,2024-07-24,Wednesday,July,False,631.19
+Nice,Hotel Negresco,5 étoiles,2024-07-25,Thursday,July,False,596.45
+Nice,Hotel Negresco,5 étoiles,2024-07-26,Friday,July,True,761.23
+Nice,Hotel Negresco,5 étoiles,2024-07-27,Saturday,July,True,644.22
+Nice,Hotel Negresco,5 étoiles,2024-07-28,Sunday,July,True,659.32
+Nice,Hotel Negresco,5 étoiles,2024-07-29,Monday,July,False,531.79
+Nice,Hotel Negresco,5 étoiles,2024-07-30,Tuesday,July,False,564.56
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-01,Saturday,June,True,445.85
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-02,Sunday,June,True,435.15
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-03,Monday,June,False,404.98
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-04,Tuesday,June,False,369.11
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-05,Wednesday,June,False,363.35
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-06,Thursday,June,False,383.24
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-07,Friday,June,True,423.25
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-08,Saturday,June,True,483.56
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-09,Sunday,June,True,417.2
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-10,Monday,June,False,417.0
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-11,Tuesday,June,False,400.69
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-12,Wednesday,June,False,1249.86
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-13,Thursday,June,False,1198.47
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-14,Friday,June,True,1696.7
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-15,Saturday,June,True,1662.03
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-16,Sunday,June,True,1669.1
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-17,Monday,June,False,400.62
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-18,Tuesday,June,False,451.92
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-19,Wednesday,June,False,480.02
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-20,Thursday,June,False,456.05
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-21,Friday,June,True,635.85
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-22,Saturday,June,True,607.42
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-23,Sunday,June,True,440.58
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-24,Monday,June,False,346.83
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-25,Tuesday,June,False,365.63
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-26,Wednesday,June,False,366.71
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-27,Thursday,June,False,397.45
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-28,Friday,June,True,468.55
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-29,Saturday,June,True,491.31
+Nice,Hyatt Regency Nice,5 étoiles,2024-06-30,Sunday,June,True,453.47
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-01,Monday,July,False,456.42
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-02,Tuesday,July,False,721.1
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-03,Wednesday,July,False,727.67
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-04,Thursday,July,False,700.08
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-05,Friday,July,True,874.9
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-06,Saturday,July,True,828.89
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-07,Sunday,July,True,595.5
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-08,Monday,July,False,486.84
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-09,Tuesday,July,False,447.11
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-10,Wednesday,July,False,455.26
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-11,Thursday,July,False,447.71
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-12,Friday,July,True,974.36
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-13,Saturday,July,True,913.26
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-14,Sunday,July,True,950.11
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-15,Monday,July,False,854.83
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-16,Tuesday,July,False,750.77
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-17,Wednesday,July,False,485.15
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-18,Thursday,July,False,934.65
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-19,Friday,July,True,1009.16
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-20,Saturday,July,True,976.76
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-21,Sunday,July,True,1022.17
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-22,Monday,July,False,828.95
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-23,Tuesday,July,False,536.45
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-24,Wednesday,July,False,524.44
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-25,Thursday,July,False,507.18
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-26,Friday,July,True,636.84
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-27,Saturday,July,True,628.8
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-28,Sunday,July,True,555.64
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-29,Monday,July,False,532.78
+Nice,Hyatt Regency Nice,5 étoiles,2024-07-30,Tuesday,July,False,497.89
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-01,Saturday,June,True,280.23
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-02,Sunday,June,True,284.91
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-03,Monday,June,False,211.99
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-04,Tuesday,June,False,202.84
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-05,Wednesday,June,False,208.03
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-06,Thursday,June,False,216.79
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-07,Friday,June,True,280.79
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-08,Saturday,June,True,283.05
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-09,Sunday,June,True,237.97
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-10,Monday,June,False,220.47
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-11,Tuesday,June,False,216.37
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-12,Wednesday,June,False,727.2
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-13,Thursday,June,False,711.46
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-14,Friday,June,True,893.99
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-15,Saturday,June,True,1005.85
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-16,Sunday,June,True,891.33
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-17,Monday,June,False,220.83
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-18,Tuesday,June,False,297.61
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-19,Wednesday,June,False,278.2
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-20,Thursday,June,False,312.99
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-21,Friday,June,True,374.94
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-22,Saturday,June,True,326.16
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-23,Sunday,June,True,263.85
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-24,Monday,June,False,211.24
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-25,Tuesday,June,False,210.53
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-26,Wednesday,June,False,199.62
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-27,Thursday,June,False,224.82
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-28,Friday,June,True,264.14
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-29,Saturday,June,True,240.32
+Nice,Hotel Beau Rivage,4 étoiles,2024-06-30,Sunday,June,True,252.31
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-01,Monday,July,False,309.35
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-02,Tuesday,July,False,379.54
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-03,Wednesday,July,False,371.96
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-04,Thursday,July,False,399.56
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-05,Friday,July,True,527.15
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-06,Saturday,July,True,455.69
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-07,Sunday,July,True,355.02
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-08,Monday,July,False,300.96
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-09,Tuesday,July,False,270.99
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-10,Wednesday,July,False,299.05
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-11,Thursday,July,False,278.44
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-12,Friday,July,True,563.65
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-13,Saturday,July,True,563.78
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-14,Sunday,July,True,553.05
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-15,Monday,July,False,420.1
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-16,Tuesday,July,False,488.29
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-17,Wednesday,July,False,275.75
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-18,Thursday,July,False,482.52
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-19,Friday,July,True,561.02
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-20,Saturday,July,True,628.99
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-21,Sunday,July,True,639.7
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-22,Monday,July,False,465.03
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-23,Tuesday,July,False,286.69
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-24,Wednesday,July,False,270.36
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-25,Thursday,July,False,294.3
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-26,Friday,July,True,320.85
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-27,Saturday,July,True,356.31
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-28,Sunday,July,True,335.43
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-29,Monday,July,False,310.98
+Nice,Hotel Beau Rivage,4 étoiles,2024-07-30,Tuesday,July,False,265.27
+Nice,Mercure Nice,3 étoiles,2024-06-01,Saturday,June,True,139.42
+Nice,Mercure Nice,3 étoiles,2024-06-02,Sunday,June,True,132.87
+Nice,Mercure Nice,3 étoiles,2024-06-03,Monday,June,False,130.19
+Nice,Mercure Nice,3 étoiles,2024-06-04,Tuesday,June,False,129.06
+Nice,Mercure Nice,3 étoiles,2024-06-05,Wednesday,June,False,114.19
+Nice,Mercure Nice,3 étoiles,2024-06-06,Thursday,June,False,123.84
+Nice,Mercure Nice,3 étoiles,2024-06-07,Friday,June,True,153.14
+Nice,Mercure Nice,3 étoiles,2024-06-08,Saturday,June,True,145.59
+Nice,Mercure Nice,3 étoiles,2024-06-09,Sunday,June,True,144.85
+Nice,Mercure Nice,3 étoiles,2024-06-10,Monday,June,False,113.8
+Nice,Mercure Nice,3 étoiles,2024-06-11,Tuesday,June,False,110.23
+Nice,Mercure Nice,3 étoiles,2024-06-12,Wednesday,June,False,453.37
+Nice,Mercure Nice,3 étoiles,2024-06-13,Thursday,June,False,453.64
+Nice,Mercure Nice,3 étoiles,2024-06-14,Friday,June,True,517.42
+Nice,Mercure Nice,3 étoiles,2024-06-15,Saturday,June,True,487.77
+Nice,Mercure Nice,3 étoiles,2024-06-16,Sunday,June,True,488.8
+Nice,Mercure Nice,3 étoiles,2024-06-17,Monday,June,False,125.42
+Nice,Mercure Nice,3 étoiles,2024-06-18,Tuesday,June,False,168.39
+Nice,Mercure Nice,3 étoiles,2024-06-19,Wednesday,June,False,168.08
+Nice,Mercure Nice,3 étoiles,2024-06-20,Thursday,June,False,164.73
+Nice,Mercure Nice,3 étoiles,2024-06-21,Friday,June,True,192.52
+Nice,Mercure Nice,3 étoiles,2024-06-22,Saturday,June,True,171.63
+Nice,Mercure Nice,3 étoiles,2024-06-23,Sunday,June,True,134.25
+Nice,Mercure Nice,3 étoiles,2024-06-24,Monday,June,False,129.57
+Nice,Mercure Nice,3 étoiles,2024-06-25,Tuesday,June,False,122.55
+Nice,Mercure Nice,3 étoiles,2024-06-26,Wednesday,June,False,108.22
+Nice,Mercure Nice,3 étoiles,2024-06-27,Thursday,June,False,110.44
+Nice,Mercure Nice,3 étoiles,2024-06-28,Friday,June,True,148.71
+Nice,Mercure Nice,3 étoiles,2024-06-29,Saturday,June,True,129.75
+Nice,Mercure Nice,3 étoiles,2024-06-30,Sunday,June,True,134.23
+Nice,Mercure Nice,3 étoiles,2024-07-01,Monday,July,False,157.52
+Nice,Mercure Nice,3 étoiles,2024-07-02,Tuesday,July,False,226.78
+Nice,Mercure Nice,3 étoiles,2024-07-03,Wednesday,July,False,225.04
+Nice,Mercure Nice,3 étoiles,2024-07-04,Thursday,July,False,206.36
+Nice,Mercure Nice,3 étoiles,2024-07-05,Friday,July,True,273.2
+Nice,Mercure Nice,3 étoiles,2024-07-06,Saturday,July,True,248.31
+Nice,Mercure Nice,3 étoiles,2024-07-07,Sunday,July,True,180.66
+Nice,Mercure Nice,3 étoiles,2024-07-08,Monday,July,False,163.69
+Nice,Mercure Nice,3 étoiles,2024-07-09,Tuesday,July,False,160.67
+Nice,Mercure Nice,3 étoiles,2024-07-10,Wednesday,July,False,166.9
+Nice,Mercure Nice,3 étoiles,2024-07-11,Thursday,July,False,160.92
+Nice,Mercure Nice,3 étoiles,2024-07-12,Friday,July,True,303.61
+Nice,Mercure Nice,3 étoiles,2024-07-13,Saturday,July,True,275.18
+Nice,Mercure Nice,3 étoiles,2024-07-14,Sunday,July,True,291.6
+Nice,Mercure Nice,3 étoiles,2024-07-15,Monday,July,False,237.88
+Nice,Mercure Nice,3 étoiles,2024-07-16,Tuesday,July,False,236.82
+Nice,Mercure Nice,3 étoiles,2024-07-17,Wednesday,July,False,170.76
+Nice,Mercure Nice,3 étoiles,2024-07-18,Thursday,July,False,274.8
+Nice,Mercure Nice,3 étoiles,2024-07-19,Friday,July,True,363.38
+Nice,Mercure Nice,3 étoiles,2024-07-20,Saturday,July,True,345.8
+Nice,Mercure Nice,3 étoiles,2024-07-21,Sunday,July,True,356.83
+Nice,Mercure Nice,3 étoiles,2024-07-22,Monday,July,False,280.95
+Nice,Mercure Nice,3 étoiles,2024-07-23,Tuesday,July,False,158.4
+Nice,Mercure Nice,3 étoiles,2024-07-24,Wednesday,July,False,155.77
+Nice,Mercure Nice,3 étoiles,2024-07-25,Thursday,July,False,146.49
+Nice,Mercure Nice,3 étoiles,2024-07-26,Friday,July,True,195.53
+Nice,Mercure Nice,3 étoiles,2024-07-27,Saturday,July,True,178.99
+Nice,Mercure Nice,3 étoiles,2024-07-28,Sunday,July,True,169.39
+Nice,Mercure Nice,3 étoiles,2024-07-29,Monday,July,False,160.54
+Nice,Mercure Nice,3 étoiles,2024-07-30,Tuesday,July,False,145.93
+Nice,Ibis Nice Centre,2 étoiles,2024-06-01,Saturday,June,True,97.93
+Nice,Ibis Nice Centre,2 étoiles,2024-06-02,Sunday,June,True,98.17
+Nice,Ibis Nice Centre,2 étoiles,2024-06-03,Monday,June,False,81.22
+Nice,Ibis Nice Centre,2 étoiles,2024-06-04,Tuesday,June,False,73.05
+Nice,Ibis Nice Centre,2 étoiles,2024-06-05,Wednesday,June,False,67.73
+Nice,Ibis Nice Centre,2 étoiles,2024-06-06,Thursday,June,False,81.42
+Nice,Ibis Nice Centre,2 étoiles,2024-06-07,Friday,June,True,88.71
+Nice,Ibis Nice Centre,2 étoiles,2024-06-08,Saturday,June,True,98.4
+Nice,Ibis Nice Centre,2 étoiles,2024-06-09,Sunday,June,True,98.35
+Nice,Ibis Nice Centre,2 étoiles,2024-06-10,Monday,June,False,80.3
+Nice,Ibis Nice Centre,2 étoiles,2024-06-11,Tuesday,June,False,71.92
+Nice,Ibis Nice Centre,2 étoiles,2024-06-12,Wednesday,June,False,256.47
+Nice,Ibis Nice Centre,2 étoiles,2024-06-13,Thursday,June,False,280.93
+Nice,Ibis Nice Centre,2 étoiles,2024-06-14,Friday,June,True,303.47
+Nice,Ibis Nice Centre,2 étoiles,2024-06-15,Saturday,June,True,294.18
+Nice,Ibis Nice Centre,2 étoiles,2024-06-16,Sunday,June,True,318.58
+Nice,Ibis Nice Centre,2 étoiles,2024-06-17,Monday,June,False,81.54
+Nice,Ibis Nice Centre,2 étoiles,2024-06-18,Tuesday,June,False,101.32
+Nice,Ibis Nice Centre,2 étoiles,2024-06-19,Wednesday,June,False,98.87
+Nice,Ibis Nice Centre,2 étoiles,2024-06-20,Thursday,June,False,89.64
+Nice,Ibis Nice Centre,2 étoiles,2024-06-21,Friday,June,True,119.69
+Nice,Ibis Nice Centre,2 étoiles,2024-06-22,Saturday,June,True,128.47
+Nice,Ibis Nice Centre,2 étoiles,2024-06-23,Sunday,June,True,83.52
+Nice,Ibis Nice Centre,2 étoiles,2024-06-24,Monday,June,False,75.27
+Nice,Ibis Nice Centre,2 étoiles,2024-06-25,Tuesday,June,False,80.66
+Nice,Ibis Nice Centre,2 étoiles,2024-06-26,Wednesday,June,False,78.61
+Nice,Ibis Nice Centre,2 étoiles,2024-06-27,Thursday,June,False,77.96
+Nice,Ibis Nice Centre,2 étoiles,2024-06-28,Friday,June,True,93.64
+Nice,Ibis Nice Centre,2 étoiles,2024-06-29,Saturday,June,True,87.47
+Nice,Ibis Nice Centre,2 étoiles,2024-06-30,Sunday,June,True,86.28
+Nice,Ibis Nice Centre,2 étoiles,2024-07-01,Monday,July,False,103.53
+Nice,Ibis Nice Centre,2 étoiles,2024-07-02,Tuesday,July,False,144.97
+Nice,Ibis Nice Centre,2 étoiles,2024-07-03,Wednesday,July,False,146.52
+Nice,Ibis Nice Centre,2 étoiles,2024-07-04,Thursday,July,False,147.78
+Nice,Ibis Nice Centre,2 étoiles,2024-07-05,Friday,July,True,164.17
+Nice,Ibis Nice Centre,2 étoiles,2024-07-06,Saturday,July,True,163.85
+Nice,Ibis Nice Centre,2 étoiles,2024-07-07,Sunday,July,True,123.98
+Nice,Ibis Nice Centre,2 étoiles,2024-07-08,Monday,July,False,100.42
+Nice,Ibis Nice Centre,2 étoiles,2024-07-09,Tuesday,July,False,101.44
+Nice,Ibis Nice Centre,2 étoiles,2024-07-10,Wednesday,July,False,103.27
+Nice,Ibis Nice Centre,2 étoiles,2024-07-11,Thursday,July,False,105.11
+Nice,Ibis Nice Centre,2 étoiles,2024-07-12,Friday,July,True,181.13
+Nice,Ibis Nice Centre,2 étoiles,2024-07-13,Saturday,July,True,182.54
+Nice,Ibis Nice Centre,2 étoiles,2024-07-14,Sunday,July,True,172.0
+Nice,Ibis Nice Centre,2 étoiles,2024-07-15,Monday,July,False,158.44
+Nice,Ibis Nice Centre,2 étoiles,2024-07-16,Tuesday,July,False,141.52
+Nice,Ibis Nice Centre,2 étoiles,2024-07-17,Wednesday,July,False,96.83
+Nice,Ibis Nice Centre,2 étoiles,2024-07-18,Thursday,July,False,177.0
+Nice,Ibis Nice Centre,2 étoiles,2024-07-19,Friday,July,True,201.61
+Nice,Ibis Nice Centre,2 étoiles,2024-07-20,Saturday,July,True,214.43
+Nice,Ibis Nice Centre,2 étoiles,2024-07-21,Sunday,July,True,190.82
+Nice,Ibis Nice Centre,2 étoiles,2024-07-22,Monday,July,False,159.26
+Nice,Ibis Nice Centre,2 étoiles,2024-07-23,Tuesday,July,False,103.79
+Nice,Ibis Nice Centre,2 étoiles,2024-07-24,Wednesday,July,False,94.77
+Nice,Ibis Nice Centre,2 étoiles,2024-07-25,Thursday,July,False,90.23
+Nice,Ibis Nice Centre,2 étoiles,2024-07-26,Friday,July,True,117.52
+Nice,Ibis Nice Centre,2 étoiles,2024-07-27,Saturday,July,True,123.32
+Nice,Ibis Nice Centre,2 étoiles,2024-07-28,Sunday,July,True,110.35
+Nice,Ibis Nice Centre,2 étoiles,2024-07-29,Monday,July,False,99.9
+Nice,Ibis Nice Centre,2 étoiles,2024-07-30,Tuesday,July,False,89.41
+Cannes,Hotel Martinez,5 étoiles,2024-06-01,Saturday,June,True,568.05
+Cannes,Hotel Martinez,5 étoiles,2024-06-02,Sunday,June,True,627.91
+Cannes,Hotel Martinez,5 étoiles,2024-06-03,Monday,June,False,524.23
+Cannes,Hotel Martinez,5 étoiles,2024-06-04,Tuesday,June,False,534.29
+Cannes,Hotel Martinez,5 étoiles,2024-06-05,Wednesday,June,False,543.51
+Cannes,Hotel Martinez,5 étoiles,2024-06-06,Thursday,June,False,569.49
+Cannes,Hotel Martinez,5 étoiles,2024-06-07,Friday,June,True,626.03
+Cannes,Hotel Martinez,5 étoiles,2024-06-08,Saturday,June,True,601.9
+Cannes,Hotel Martinez,5 étoiles,2024-06-09,Sunday,June,True,660.84
+Cannes,Hotel Martinez,5 étoiles,2024-06-10,Monday,June,False,496.17
+Cannes,Hotel Martinez,5 étoiles,2024-06-11,Tuesday,June,False,513.65
+Cannes,Hotel Martinez,5 étoiles,2024-06-12,Wednesday,June,False,1666.56
+Cannes,Hotel Martinez,5 étoiles,2024-06-13,Thursday,June,False,1647.23
+Cannes,Hotel Martinez,5 étoiles,2024-06-14,Friday,June,True,2386.08
+Cannes,Hotel Martinez,5 étoiles,2024-06-15,Saturday,June,True,2330.76
+Cannes,Hotel Martinez,5 étoiles,2024-06-16,Sunday,June,True,2269.6
+Cannes,Hotel Martinez,5 étoiles,2024-06-17,Monday,June,False,510.53
+Cannes,Hotel Martinez,5 étoiles,2024-06-18,Tuesday,June,False,631.83
+Cannes,Hotel Martinez,5 étoiles,2024-06-19,Wednesday,June,False,629.55
+Cannes,Hotel Martinez,5 étoiles,2024-06-20,Thursday,June,False,642.23
+Cannes,Hotel Martinez,5 étoiles,2024-06-21,Friday,June,True,819.19
+Cannes,Hotel Martinez,5 étoiles,2024-06-22,Saturday,June,True,846.02
+Cannes,Hotel Martinez,5 étoiles,2024-06-23,Sunday,June,True,643.99
+Cannes,Hotel Martinez,5 étoiles,2024-06-24,Monday,June,False,497.11
+Cannes,Hotel Martinez,5 étoiles,2024-06-25,Tuesday,June,False,567.31
+Cannes,Hotel Martinez,5 étoiles,2024-06-26,Wednesday,June,False,544.74
+Cannes,Hotel Martinez,5 étoiles,2024-06-27,Thursday,June,False,525.65
+Cannes,Hotel Martinez,5 étoiles,2024-06-28,Friday,June,True,637.94
+Cannes,Hotel Martinez,5 étoiles,2024-06-29,Saturday,June,True,613.97
+Cannes,Hotel Martinez,5 étoiles,2024-06-30,Sunday,June,True,592.52
+Cannes,Hotel Martinez,5 étoiles,2024-07-01,Monday,July,False,656.53
+Cannes,Hotel Martinez,5 étoiles,2024-07-02,Tuesday,July,False,995.21
+Cannes,Hotel Martinez,5 étoiles,2024-07-03,Wednesday,July,False,854.48
+Cannes,Hotel Martinez,5 étoiles,2024-07-04,Thursday,July,False,873.73
+Cannes,Hotel Martinez,5 étoiles,2024-07-05,Friday,July,True,1032.56
+Cannes,Hotel Martinez,5 étoiles,2024-07-06,Saturday,July,True,1031.36
+Cannes,Hotel Martinez,5 étoiles,2024-07-07,Sunday,July,True,868.87
+Cannes,Hotel Martinez,5 étoiles,2024-07-08,Monday,July,False,703.53
+Cannes,Hotel Martinez,5 étoiles,2024-07-09,Tuesday,July,False,672.51
+Cannes,Hotel Martinez,5 étoiles,2024-07-10,Wednesday,July,False,621.63
+Cannes,Hotel Martinez,5 étoiles,2024-07-11,Thursday,July,False,674.87
+Cannes,Hotel Martinez,5 étoiles,2024-07-12,Friday,July,True,1291.03
+Cannes,Hotel Martinez,5 étoiles,2024-07-13,Saturday,July,True,1213.09
+Cannes,Hotel Martinez,5 étoiles,2024-07-14,Sunday,July,True,1280.75
+Cannes,Hotel Martinez,5 étoiles,2024-07-15,Monday,July,False,1059.64
+Cannes,Hotel Martinez,5 étoiles,2024-07-16,Tuesday,July,False,1106.66
+Cannes,Hotel Martinez,5 étoiles,2024-07-17,Wednesday,July,False,694.26
+Cannes,Hotel Martinez,5 étoiles,2024-07-18,Thursday,July,False,1106.15
+Cannes,Hotel Martinez,5 étoiles,2024-07-19,Friday,July,True,1423.54
+Cannes,Hotel Martinez,5 étoiles,2024-07-20,Saturday,July,True,1496.92
+Cannes,Hotel Martinez,5 étoiles,2024-07-21,Sunday,July,True,1461.08
+Cannes,Hotel Martinez,5 étoiles,2024-07-22,Monday,July,False,1303.56
+Cannes,Hotel Martinez,5 étoiles,2024-07-23,Tuesday,July,False,697.46
+Cannes,Hotel Martinez,5 étoiles,2024-07-24,Wednesday,July,False,630.43
+Cannes,Hotel Martinez,5 étoiles,2024-07-25,Thursday,July,False,617.94
+Cannes,Hotel Martinez,5 étoiles,2024-07-26,Friday,July,True,834.31
+Cannes,Hotel Martinez,5 étoiles,2024-07-27,Saturday,July,True,734.38
+Cannes,Hotel Martinez,5 étoiles,2024-07-28,Sunday,July,True,825.12
+Cannes,Hotel Martinez,5 étoiles,2024-07-29,Monday,July,False,735.52
+Cannes,Hotel Martinez,5 étoiles,2024-07-30,Tuesday,July,False,686.2
+Cannes,Hotel Majestic,5 étoiles,2024-06-01,Saturday,June,True,527.92
+Cannes,Hotel Majestic,5 étoiles,2024-06-02,Sunday,June,True,555.48
+Cannes,Hotel Majestic,5 étoiles,2024-06-03,Monday,June,False,446.24
+Cannes,Hotel Majestic,5 étoiles,2024-06-04,Tuesday,June,False,454.11
+Cannes,Hotel Majestic,5 étoiles,2024-06-05,Wednesday,June,False,489.73
+Cannes,Hotel Majestic,5 étoiles,2024-06-06,Thursday,June,False,439.75
+Cannes,Hotel Majestic,5 étoiles,2024-06-07,Friday,June,True,589.81
+Cannes,Hotel Majestic,5 étoiles,2024-06-08,Saturday,June,True,583.78
+Cannes,Hotel Majestic,5 étoiles,2024-06-09,Sunday,June,True,507.15
+Cannes,Hotel Majestic,5 étoiles,2024-06-10,Monday,June,False,411.24
+Cannes,Hotel Majestic,5 étoiles,2024-06-11,Tuesday,June,False,414.07
+Cannes,Hotel Majestic,5 étoiles,2024-06-12,Wednesday,June,False,1423.24
+Cannes,Hotel Majestic,5 étoiles,2024-06-13,Thursday,June,False,1447.25
+Cannes,Hotel Majestic,5 étoiles,2024-06-14,Friday,June,True,1959.18
+Cannes,Hotel Majestic,5 étoiles,2024-06-15,Saturday,June,True,1727.91
+Cannes,Hotel Majestic,5 étoiles,2024-06-16,Sunday,June,True,1821.57
+Cannes,Hotel Majestic,5 étoiles,2024-06-17,Monday,June,False,481.04
+Cannes,Hotel Majestic,5 étoiles,2024-06-18,Tuesday,June,False,529.22
+Cannes,Hotel Majestic,5 étoiles,2024-06-19,Wednesday,June,False,621.79
+Cannes,Hotel Majestic,5 étoiles,2024-06-20,Thursday,June,False,559.48
+Cannes,Hotel Majestic,5 étoiles,2024-06-21,Friday,June,True,648.39
+Cannes,Hotel Majestic,5 étoiles,2024-06-22,Saturday,June,True,729.62
+Cannes,Hotel Majestic,5 étoiles,2024-06-23,Sunday,June,True,553.93
+Cannes,Hotel Majestic,5 étoiles,2024-06-24,Monday,June,False,483.97
+Cannes,Hotel Majestic,5 étoiles,2024-06-25,Tuesday,June,False,471.16
+Cannes,Hotel Majestic,5 étoiles,2024-06-26,Wednesday,June,False,477.31
+Cannes,Hotel Majestic,5 étoiles,2024-06-27,Thursday,June,False,430.38
+Cannes,Hotel Majestic,5 étoiles,2024-06-28,Friday,June,True,505.16
+Cannes,Hotel Majestic,5 étoiles,2024-06-29,Saturday,June,True,567.07
+Cannes,Hotel Majestic,5 étoiles,2024-06-30,Sunday,June,True,573.14
+Cannes,Hotel Majestic,5 étoiles,2024-07-01,Monday,July,False,642.39
+Cannes,Hotel Majestic,5 étoiles,2024-07-02,Tuesday,July,False,804.69
+Cannes,Hotel Majestic,5 étoiles,2024-07-03,Wednesday,July,False,798.04
+Cannes,Hotel Majestic,5 étoiles,2024-07-04,Thursday,July,False,864.28
+Cannes,Hotel Majestic,5 étoiles,2024-07-05,Friday,July,True,951.51
+Cannes,Hotel Majestic,5 étoiles,2024-07-06,Saturday,July,True,1067.47
+Cannes,Hotel Majestic,5 étoiles,2024-07-07,Sunday,July,True,752.32
+Cannes,Hotel Majestic,5 étoiles,2024-07-08,Monday,July,False,576.69
+Cannes,Hotel Majestic,5 étoiles,2024-07-09,Tuesday,July,False,614.35
+Cannes,Hotel Majestic,5 étoiles,2024-07-10,Wednesday,July,False,614.78
+Cannes,Hotel Majestic,5 étoiles,2024-07-11,Thursday,July,False,538.57
+Cannes,Hotel Majestic,5 étoiles,2024-07-12,Friday,July,True,1213.63
+Cannes,Hotel Majestic,5 étoiles,2024-07-13,Saturday,July,True,1124.38
+Cannes,Hotel Majestic,5 étoiles,2024-07-14,Sunday,July,True,1196.54
+Cannes,Hotel Majestic,5 étoiles,2024-07-15,Monday,July,False,902.31
+Cannes,Hotel Majestic,5 étoiles,2024-07-16,Tuesday,July,False,1010.04
+Cannes,Hotel Majestic,5 étoiles,2024-07-17,Wednesday,July,False,572.04
+Cannes,Hotel Majestic,5 étoiles,2024-07-18,Thursday,July,False,949.98
+Cannes,Hotel Majestic,5 étoiles,2024-07-19,Friday,July,True,1366.05
+Cannes,Hotel Majestic,5 étoiles,2024-07-20,Saturday,July,True,1160.31
+Cannes,Hotel Majestic,5 étoiles,2024-07-21,Sunday,July,True,1217.94
+Cannes,Hotel Majestic,5 étoiles,2024-07-22,Monday,July,False,1147.78
+Cannes,Hotel Majestic,5 étoiles,2024-07-23,Tuesday,July,False,637.72
+Cannes,Hotel Majestic,5 étoiles,2024-07-24,Wednesday,July,False,593.59
+Cannes,Hotel Majestic,5 étoiles,2024-07-25,Thursday,July,False,600.42
+Cannes,Hotel Majestic,5 étoiles,2024-07-26,Friday,July,True,694.76
+Cannes,Hotel Majestic,5 étoiles,2024-07-27,Saturday,July,True,672.97
+Cannes,Hotel Majestic,5 étoiles,2024-07-28,Sunday,July,True,677.94
+Cannes,Hotel Majestic,5 étoiles,2024-07-29,Monday,July,False,605.18
+Cannes,Hotel Majestic,5 étoiles,2024-07-30,Tuesday,July,False,614.53
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-01,Saturday,June,True,330.19
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-02,Sunday,June,True,330.07
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-03,Monday,June,False,238.74
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-04,Tuesday,June,False,259.71
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-05,Wednesday,June,False,236.99
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-06,Thursday,June,False,262.58
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-07,Friday,June,True,308.35
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-08,Saturday,June,True,336.19
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-09,Sunday,June,True,302.7
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-10,Monday,June,False,240.09
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-11,Tuesday,June,False,241.44
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-12,Wednesday,June,False,957.59
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-13,Thursday,June,False,931.52
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-14,Friday,June,True,1004.89
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-15,Saturday,June,True,1001.17
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-16,Sunday,June,True,1135.89
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-17,Monday,June,False,237.78
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-18,Tuesday,June,False,359.76
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-19,Wednesday,June,False,351.94
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-20,Thursday,June,False,309.7
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-21,Friday,June,True,371.92
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-22,Saturday,June,True,445.08
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-23,Sunday,June,True,304.15
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-24,Monday,June,False,253.27
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-25,Tuesday,June,False,276.27
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-26,Wednesday,June,False,283.26
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-27,Thursday,June,False,285.27
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-28,Friday,June,True,327.81
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-29,Saturday,June,True,304.28
+Cannes,Hotel Croisette Beach,4 étoiles,2024-06-30,Sunday,June,True,286.01
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-01,Monday,July,False,356.74
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-02,Tuesday,July,False,478.73
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-03,Wednesday,July,False,466.03
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-04,Thursday,July,False,511.66
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-05,Friday,July,True,523.68
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-06,Saturday,July,True,567.0
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-07,Sunday,July,True,365.96
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-08,Monday,July,False,335.88
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-09,Tuesday,July,False,308.01
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-10,Wednesday,July,False,312.23
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-11,Thursday,July,False,312.14
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-12,Friday,July,True,668.33
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-13,Saturday,July,True,680.89
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-14,Sunday,July,True,659.78
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-15,Monday,July,False,590.79
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-16,Tuesday,July,False,527.27
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-17,Wednesday,July,False,323.51
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-18,Thursday,July,False,653.25
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-19,Friday,July,True,689.72
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-20,Saturday,July,True,797.72
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-21,Sunday,July,True,658.85
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-22,Monday,July,False,665.57
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-23,Tuesday,July,False,307.12
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-24,Wednesday,July,False,364.44
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-25,Thursday,July,False,339.87
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-26,Friday,July,True,445.59
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-27,Saturday,July,True,371.03
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-28,Sunday,July,True,409.97
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-29,Monday,July,False,369.72
+Cannes,Hotel Croisette Beach,4 étoiles,2024-07-30,Tuesday,July,False,339.56
+Cannes,Mercure Cannes,3 étoiles,2024-06-01,Saturday,June,True,172.35
+Cannes,Mercure Cannes,3 étoiles,2024-06-02,Sunday,June,True,174.58
+Cannes,Mercure Cannes,3 étoiles,2024-06-03,Monday,June,False,138.73
+Cannes,Mercure Cannes,3 étoiles,2024-06-04,Tuesday,June,False,143.57
+Cannes,Mercure Cannes,3 étoiles,2024-06-05,Wednesday,June,False,142.36
+Cannes,Mercure Cannes,3 étoiles,2024-06-06,Thursday,June,False,151.23
+Cannes,Mercure Cannes,3 étoiles,2024-06-07,Friday,June,True,152.73
+Cannes,Mercure Cannes,3 étoiles,2024-06-08,Saturday,June,True,160.64
+Cannes,Mercure Cannes,3 étoiles,2024-06-09,Sunday,June,True,183.13
+Cannes,Mercure Cannes,3 étoiles,2024-06-10,Monday,June,False,150.93
+Cannes,Mercure Cannes,3 étoiles,2024-06-11,Tuesday,June,False,138.76
+Cannes,Mercure Cannes,3 étoiles,2024-06-12,Wednesday,June,False,501.77
+Cannes,Mercure Cannes,3 étoiles,2024-06-13,Thursday,June,False,468.18
+Cannes,Mercure Cannes,3 étoiles,2024-06-14,Friday,June,True,551.32
+Cannes,Mercure Cannes,3 étoiles,2024-06-15,Saturday,June,True,583.73
+Cannes,Mercure Cannes,3 étoiles,2024-06-16,Sunday,June,True,570.75
+Cannes,Mercure Cannes,3 étoiles,2024-06-17,Monday,June,False,142.34
+Cannes,Mercure Cannes,3 étoiles,2024-06-18,Tuesday,June,False,166.63
+Cannes,Mercure Cannes,3 étoiles,2024-06-19,Wednesday,June,False,199.27
+Cannes,Mercure Cannes,3 étoiles,2024-06-20,Thursday,June,False,199.7
+Cannes,Mercure Cannes,3 étoiles,2024-06-21,Friday,June,True,227.06
+Cannes,Mercure Cannes,3 étoiles,2024-06-22,Saturday,June,True,219.98
+Cannes,Mercure Cannes,3 étoiles,2024-06-23,Sunday,June,True,161.6
+Cannes,Mercure Cannes,3 étoiles,2024-06-24,Monday,June,False,148.79
+Cannes,Mercure Cannes,3 étoiles,2024-06-25,Tuesday,June,False,145.17
+Cannes,Mercure Cannes,3 étoiles,2024-06-26,Wednesday,June,False,130.55
+Cannes,Mercure Cannes,3 étoiles,2024-06-27,Thursday,June,False,151.51
+Cannes,Mercure Cannes,3 étoiles,2024-06-28,Friday,June,True,178.84
+Cannes,Mercure Cannes,3 étoiles,2024-06-29,Saturday,June,True,183.11
+Cannes,Mercure Cannes,3 étoiles,2024-06-30,Sunday,June,True,175.58
+Cannes,Mercure Cannes,3 étoiles,2024-07-01,Monday,July,False,186.13
+Cannes,Mercure Cannes,3 étoiles,2024-07-02,Tuesday,July,False,250.63
+Cannes,Mercure Cannes,3 étoiles,2024-07-03,Wednesday,July,False,276.85
+Cannes,Mercure Cannes,3 étoiles,2024-07-04,Thursday,July,False,273.45
+Cannes,Mercure Cannes,3 étoiles,2024-07-05,Friday,July,True,277.95
+Cannes,Mercure Cannes,3 étoiles,2024-07-06,Saturday,July,True,276.8
+Cannes,Mercure Cannes,3 étoiles,2024-07-07,Sunday,July,True,213.0
+Cannes,Mercure Cannes,3 étoiles,2024-07-08,Monday,July,False,193.3
+Cannes,Mercure Cannes,3 étoiles,2024-07-09,Tuesday,July,False,199.74
+Cannes,Mercure Cannes,3 étoiles,2024-07-10,Wednesday,July,False,169.28
+Cannes,Mercure Cannes,3 étoiles,2024-07-11,Thursday,July,False,185.43
+Cannes,Mercure Cannes,3 étoiles,2024-07-12,Friday,July,True,341.12
+Cannes,Mercure Cannes,3 étoiles,2024-07-13,Saturday,July,True,382.28
+Cannes,Mercure Cannes,3 étoiles,2024-07-14,Sunday,July,True,373.35
+Cannes,Mercure Cannes,3 étoiles,2024-07-15,Monday,July,False,310.9
+Cannes,Mercure Cannes,3 étoiles,2024-07-16,Tuesday,July,False,289.38
+Cannes,Mercure Cannes,3 étoiles,2024-07-17,Wednesday,July,False,178.9
+Cannes,Mercure Cannes,3 étoiles,2024-07-18,Thursday,July,False,312.75
+Cannes,Mercure Cannes,3 étoiles,2024-07-19,Friday,July,True,358.24
+Cannes,Mercure Cannes,3 étoiles,2024-07-20,Saturday,July,True,421.8
+Cannes,Mercure Cannes,3 étoiles,2024-07-21,Sunday,July,True,417.72
+Cannes,Mercure Cannes,3 étoiles,2024-07-22,Monday,July,False,360.34
+Cannes,Mercure Cannes,3 étoiles,2024-07-23,Tuesday,July,False,200.08
+Cannes,Mercure Cannes,3 étoiles,2024-07-24,Wednesday,July,False,184.02
+Cannes,Mercure Cannes,3 étoiles,2024-07-25,Thursday,July,False,191.79
+Cannes,Mercure Cannes,3 étoiles,2024-07-26,Friday,July,True,237.83
+Cannes,Mercure Cannes,3 étoiles,2024-07-27,Saturday,July,True,233.67
+Cannes,Mercure Cannes,3 étoiles,2024-07-28,Sunday,July,True,207.36
+Cannes,Mercure Cannes,3 étoiles,2024-07-29,Monday,July,False,180.2
+Cannes,Mercure Cannes,3 étoiles,2024-07-30,Tuesday,July,False,168.5
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-01,Saturday,June,True,111.26
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-02,Sunday,June,True,104.17
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-03,Monday,June,False,80.39
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-04,Tuesday,June,False,87.92
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-05,Wednesday,June,False,87.01
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-06,Thursday,June,False,82.59
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-07,Friday,June,True,94.12
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-08,Saturday,June,True,105.5
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-09,Sunday,June,True,102.41
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-10,Monday,June,False,89.63
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-11,Tuesday,June,False,85.34
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-12,Wednesday,June,False,318.45
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-13,Thursday,June,False,300.59
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-14,Friday,June,True,361.35
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-15,Saturday,June,True,383.89
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-16,Sunday,June,True,350.11
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-17,Monday,June,False,78.78
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-18,Tuesday,June,False,100.09
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-19,Wednesday,June,False,116.14
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-20,Thursday,June,False,113.16
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-21,Friday,June,True,138.01
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-22,Saturday,June,True,124.99
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-23,Sunday,June,True,94.58
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-24,Monday,June,False,76.75
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-25,Tuesday,June,False,82.46
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-26,Wednesday,June,False,86.53
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-27,Thursday,June,False,83.17
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-28,Friday,June,True,100.72
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-29,Saturday,June,True,110.24
+Cannes,Ibis Cannes Centre,2 étoiles,2024-06-30,Sunday,June,True,98.9
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-01,Monday,July,False,110.81
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-02,Tuesday,July,False,163.48
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-03,Wednesday,July,False,151.5
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-04,Thursday,July,False,158.48
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-05,Friday,July,True,199.09
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-06,Saturday,July,True,202.33
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-07,Sunday,July,True,123.24
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-08,Monday,July,False,119.93
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-09,Tuesday,July,False,110.33
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-10,Wednesday,July,False,105.16
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-11,Thursday,July,False,109.6
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-12,Friday,July,True,232.53
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-13,Saturday,July,True,211.85
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-14,Sunday,July,True,204.89
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-15,Monday,July,False,181.52
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-16,Tuesday,July,False,167.61
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-17,Wednesday,July,False,101.13
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-18,Thursday,July,False,184.14
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-19,Friday,July,True,220.92
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-20,Saturday,July,True,222.06
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-21,Sunday,July,True,221.44
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-22,Monday,July,False,204.5
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-23,Tuesday,July,False,103.47
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-24,Wednesday,July,False,107.09
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-25,Thursday,July,False,119.27
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-26,Friday,July,True,131.91
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-27,Saturday,July,True,137.04
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-28,Sunday,July,True,123.91
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-29,Monday,July,False,103.7
+Cannes,Ibis Cannes Centre,2 étoiles,2024-07-30,Tuesday,July,False,100.35
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-01,Saturday,June,True,672.33
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-02,Sunday,June,True,688.12
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-03,Monday,June,False,561.24
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-04,Tuesday,June,False,550.64
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-05,Wednesday,June,False,554.48
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-06,Thursday,June,False,595.29
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-07,Friday,June,True,677.71
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-08,Saturday,June,True,700.45
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-09,Sunday,June,True,720.49
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-10,Monday,June,False,622.85
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-11,Tuesday,June,False,544.72
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-12,Wednesday,June,False,2225.75
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-13,Thursday,June,False,2153.72
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-14,Friday,June,True,2309.21
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-15,Saturday,June,True,2708.28
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-16,Sunday,June,True,2732.12
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-17,Monday,June,False,547.33
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-18,Tuesday,June,False,745.19
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-19,Wednesday,June,False,827.77
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-20,Thursday,June,False,818.73
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-21,Friday,June,True,876.94
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-22,Saturday,June,True,881.59
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-23,Sunday,June,True,701.35
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-24,Monday,June,False,598.14
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-25,Tuesday,June,False,614.19
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-26,Wednesday,June,False,584.27
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-27,Thursday,June,False,595.5
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-28,Friday,June,True,755.64
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-29,Saturday,June,True,653.28
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-06-30,Sunday,June,True,684.35
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-01,Monday,July,False,813.28
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-02,Tuesday,July,False,1178.31
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-03,Wednesday,July,False,1094.55
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-04,Thursday,July,False,1099.01
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-05,Friday,July,True,1207.45
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-06,Saturday,July,True,1296.62
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-07,Sunday,July,True,942.11
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-08,Monday,July,False,739.83
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-09,Tuesday,July,False,744.0
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-10,Wednesday,July,False,760.86
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-11,Thursday,July,False,705.13
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-12,Friday,July,True,1444.31
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-13,Saturday,July,True,1411.17
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-14,Sunday,July,True,1445.93
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-15,Monday,July,False,1153.09
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-16,Tuesday,July,False,1345.48
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-17,Wednesday,July,False,794.6
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-18,Thursday,July,False,1454.29
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-19,Friday,July,True,1782.24
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-20,Saturday,July,True,1684.28
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-21,Sunday,July,True,1545.61
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-22,Monday,July,False,1414.42
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-23,Tuesday,July,False,793.55
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-24,Wednesday,July,False,818.29
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-25,Thursday,July,False,769.34
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-26,Friday,July,True,866.28
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-27,Saturday,July,True,895.52
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-28,Sunday,July,True,910.37
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-29,Monday,July,False,802.76
+Antibes,Hotel du Cap Eden Roc,5 étoiles,2024-07-30,Tuesday,July,False,791.04
+Antibes,Hotel Josse,5 étoiles,2024-06-01,Saturday,June,True,559.42
+Antibes,Hotel Josse,5 étoiles,2024-06-02,Sunday,June,True,632.05
+Antibes,Hotel Josse,5 étoiles,2024-06-03,Monday,June,False,490.15
+Antibes,Hotel Josse,5 étoiles,2024-06-04,Tuesday,June,False,454.77
+Antibes,Hotel Josse,5 étoiles,2024-06-05,Wednesday,June,False,441.77
+Antibes,Hotel Josse,5 étoiles,2024-06-06,Thursday,June,False,446.67
+Antibes,Hotel Josse,5 étoiles,2024-06-07,Friday,June,True,546.73
+Antibes,Hotel Josse,5 étoiles,2024-06-08,Saturday,June,True,536.91
+Antibes,Hotel Josse,5 étoiles,2024-06-09,Sunday,June,True,539.89
+Antibes,Hotel Josse,5 étoiles,2024-06-10,Monday,June,False,459.37
+Antibes,Hotel Josse,5 étoiles,2024-06-11,Tuesday,June,False,448.64
+Antibes,Hotel Josse,5 étoiles,2024-06-12,Wednesday,June,False,1813.31
+Antibes,Hotel Josse,5 étoiles,2024-06-13,Thursday,June,False,1538.96
+Antibes,Hotel Josse,5 étoiles,2024-06-14,Friday,June,True,2025.88
+Antibes,Hotel Josse,5 étoiles,2024-06-15,Saturday,June,True,1979.87
+Antibes,Hotel Josse,5 étoiles,2024-06-16,Sunday,June,True,2210.5
+Antibes,Hotel Josse,5 étoiles,2024-06-17,Monday,June,False,442.76
+Antibes,Hotel Josse,5 étoiles,2024-06-18,Tuesday,June,False,611.25
+Antibes,Hotel Josse,5 étoiles,2024-06-19,Wednesday,June,False,682.59
+Antibes,Hotel Josse,5 étoiles,2024-06-20,Thursday,June,False,669.62
+Antibes,Hotel Josse,5 étoiles,2024-06-21,Friday,June,True,796.28
+Antibes,Hotel Josse,5 étoiles,2024-06-22,Saturday,June,True,712.54
+Antibes,Hotel Josse,5 étoiles,2024-06-23,Sunday,June,True,538.09
+Antibes,Hotel Josse,5 étoiles,2024-06-24,Monday,June,False,496.19
+Antibes,Hotel Josse,5 étoiles,2024-06-25,Tuesday,June,False,521.22
+Antibes,Hotel Josse,5 étoiles,2024-06-26,Wednesday,June,False,485.45
+Antibes,Hotel Josse,5 étoiles,2024-06-27,Thursday,June,False,486.87
+Antibes,Hotel Josse,5 étoiles,2024-06-28,Friday,June,True,550.65
+Antibes,Hotel Josse,5 étoiles,2024-06-29,Saturday,June,True,607.05
+Antibes,Hotel Josse,5 étoiles,2024-06-30,Sunday,June,True,539.95
+Antibes,Hotel Josse,5 étoiles,2024-07-01,Monday,July,False,602.0
+Antibes,Hotel Josse,5 étoiles,2024-07-02,Tuesday,July,False,860.57
+Antibes,Hotel Josse,5 étoiles,2024-07-03,Wednesday,July,False,874.93
+Antibes,Hotel Josse,5 étoiles,2024-07-04,Thursday,July,False,828.59
+Antibes,Hotel Josse,5 étoiles,2024-07-05,Friday,July,True,967.57
+Antibes,Hotel Josse,5 étoiles,2024-07-06,Saturday,July,True,1071.51
+Antibes,Hotel Josse,5 étoiles,2024-07-07,Sunday,July,True,717.15
+Antibes,Hotel Josse,5 étoiles,2024-07-08,Monday,July,False,634.14
+Antibes,Hotel Josse,5 étoiles,2024-07-09,Tuesday,July,False,580.86
+Antibes,Hotel Josse,5 étoiles,2024-07-10,Wednesday,July,False,621.65
+Antibes,Hotel Josse,5 étoiles,2024-07-11,Thursday,July,False,628.07
+Antibes,Hotel Josse,5 étoiles,2024-07-12,Friday,July,True,1090.69
+Antibes,Hotel Josse,5 étoiles,2024-07-13,Saturday,July,True,1158.93
+Antibes,Hotel Josse,5 étoiles,2024-07-14,Sunday,July,True,1110.48
+Antibes,Hotel Josse,5 étoiles,2024-07-15,Monday,July,False,911.21
+Antibes,Hotel Josse,5 étoiles,2024-07-16,Tuesday,July,False,1096.24
+Antibes,Hotel Josse,5 étoiles,2024-07-17,Wednesday,July,False,601.83
+Antibes,Hotel Josse,5 étoiles,2024-07-18,Thursday,July,False,1192.81
+Antibes,Hotel Josse,5 étoiles,2024-07-19,Friday,July,True,1281.7
+Antibes,Hotel Josse,5 étoiles,2024-07-20,Saturday,July,True,1396.77
+Antibes,Hotel Josse,5 étoiles,2024-07-21,Sunday,July,True,1417.99
+Antibes,Hotel Josse,5 étoiles,2024-07-22,Monday,July,False,1144.68
+Antibes,Hotel Josse,5 étoiles,2024-07-23,Tuesday,July,False,620.45
+Antibes,Hotel Josse,5 étoiles,2024-07-24,Wednesday,July,False,613.0
+Antibes,Hotel Josse,5 étoiles,2024-07-25,Thursday,July,False,605.14
+Antibes,Hotel Josse,5 étoiles,2024-07-26,Friday,July,True,813.13
+Antibes,Hotel Josse,5 étoiles,2024-07-27,Saturday,July,True,798.31
+Antibes,Hotel Josse,5 étoiles,2024-07-28,Sunday,July,True,818.44
+Antibes,Hotel Josse,5 étoiles,2024-07-29,Monday,July,False,577.11
+Antibes,Hotel Josse,5 étoiles,2024-07-30,Tuesday,July,False,652.81
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-01,Saturday,June,True,313.25
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-02,Sunday,June,True,269.64
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-03,Monday,June,False,219.19
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-04,Tuesday,June,False,251.57
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-05,Wednesday,June,False,243.57
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-06,Thursday,June,False,256.41
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-07,Friday,June,True,267.25
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-08,Saturday,June,True,305.01
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-09,Sunday,June,True,270.81
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-10,Monday,June,False,223.86
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-11,Tuesday,June,False,223.88
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-12,Wednesday,June,False,892.85
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-13,Thursday,June,False,867.75
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-14,Friday,June,True,1012.65
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-15,Saturday,June,True,979.54
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-16,Sunday,June,True,1084.04
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-17,Monday,June,False,234.84
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-18,Tuesday,June,False,331.76
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-19,Wednesday,June,False,308.2
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-20,Thursday,June,False,304.32
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-21,Friday,June,True,371.61
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-22,Saturday,June,True,359.53
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-23,Sunday,June,True,302.26
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-24,Monday,June,False,240.13
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-25,Tuesday,June,False,227.15
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-26,Wednesday,June,False,259.18
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-27,Thursday,June,False,234.43
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-28,Friday,June,True,290.51
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-29,Saturday,June,True,311.41
+Antibes,Hotel La Jabotte,4 étoiles,2024-06-30,Sunday,June,True,295.16
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-01,Monday,July,False,288.09
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-02,Tuesday,July,False,475.22
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-03,Wednesday,July,False,447.96
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-04,Thursday,July,False,422.38
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-05,Friday,July,True,486.34
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-06,Saturday,July,True,554.98
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-07,Sunday,July,True,383.39
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-08,Monday,July,False,314.09
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-09,Tuesday,July,False,336.58
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-10,Wednesday,July,False,330.01
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-11,Thursday,July,False,290.26
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-12,Friday,July,True,576.48
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-13,Saturday,July,True,568.91
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-14,Sunday,July,True,628.27
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-15,Monday,July,False,452.63
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-16,Tuesday,July,False,506.18
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-17,Wednesday,July,False,328.38
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-18,Thursday,July,False,603.92
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-19,Friday,July,True,652.64
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-20,Saturday,July,True,717.22
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-21,Sunday,July,True,621.44
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-22,Monday,July,False,600.51
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-23,Tuesday,July,False,288.76
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-24,Wednesday,July,False,305.59
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-25,Thursday,July,False,330.55
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-26,Friday,July,True,348.19
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-27,Saturday,July,True,354.13
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-28,Sunday,July,True,391.04
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-29,Monday,July,False,325.73
+Antibes,Hotel La Jabotte,4 étoiles,2024-07-30,Tuesday,July,False,320.81
+Antibes,Mercure Antibes,3 étoiles,2024-06-01,Saturday,June,True,162.05
+Antibes,Mercure Antibes,3 étoiles,2024-06-02,Sunday,June,True,157.33
+Antibes,Mercure Antibes,3 étoiles,2024-06-03,Monday,June,False,123.55
+Antibes,Mercure Antibes,3 étoiles,2024-06-04,Tuesday,June,False,125.99
+Antibes,Mercure Antibes,3 étoiles,2024-06-05,Wednesday,June,False,121.72
+Antibes,Mercure Antibes,3 étoiles,2024-06-06,Thursday,June,False,140.62
+Antibes,Mercure Antibes,3 étoiles,2024-06-07,Friday,June,True,158.6
+Antibes,Mercure Antibes,3 étoiles,2024-06-08,Saturday,June,True,152.91
+Antibes,Mercure Antibes,3 étoiles,2024-06-09,Sunday,June,True,154.81
+Antibes,Mercure Antibes,3 étoiles,2024-06-10,Monday,June,False,141.63
+Antibes,Mercure Antibes,3 étoiles,2024-06-11,Tuesday,June,False,120.99
+Antibes,Mercure Antibes,3 étoiles,2024-06-12,Wednesday,June,False,462.85
+Antibes,Mercure Antibes,3 étoiles,2024-06-13,Thursday,June,False,455.54
+Antibes,Mercure Antibes,3 étoiles,2024-06-14,Friday,June,True,558.17
+Antibes,Mercure Antibes,3 étoiles,2024-06-15,Saturday,June,True,493.38
+Antibes,Mercure Antibes,3 étoiles,2024-06-16,Sunday,June,True,586.64
+Antibes,Mercure Antibes,3 étoiles,2024-06-17,Monday,June,False,141.24
+Antibes,Mercure Antibes,3 étoiles,2024-06-18,Tuesday,June,False,171.2
+Antibes,Mercure Antibes,3 étoiles,2024-06-19,Wednesday,June,False,175.65
+Antibes,Mercure Antibes,3 étoiles,2024-06-20,Thursday,June,False,183.28
+Antibes,Mercure Antibes,3 étoiles,2024-06-21,Friday,June,True,211.21
+Antibes,Mercure Antibes,3 étoiles,2024-06-22,Saturday,June,True,188.71
+Antibes,Mercure Antibes,3 étoiles,2024-06-23,Sunday,June,True,158.38
+Antibes,Mercure Antibes,3 étoiles,2024-06-24,Monday,June,False,132.77
+Antibes,Mercure Antibes,3 étoiles,2024-06-25,Tuesday,June,False,128.03
+Antibes,Mercure Antibes,3 étoiles,2024-06-26,Wednesday,June,False,136.15
+Antibes,Mercure Antibes,3 étoiles,2024-06-27,Thursday,June,False,141.29
+Antibes,Mercure Antibes,3 étoiles,2024-06-28,Friday,June,True,169.28
+Antibes,Mercure Antibes,3 étoiles,2024-06-29,Saturday,June,True,154.47
+Antibes,Mercure Antibes,3 étoiles,2024-06-30,Sunday,June,True,143.93
+Antibes,Mercure Antibes,3 étoiles,2024-07-01,Monday,July,False,185.39
+Antibes,Mercure Antibes,3 étoiles,2024-07-02,Tuesday,July,False,252.64
+Antibes,Mercure Antibes,3 étoiles,2024-07-03,Wednesday,July,False,218.84
+Antibes,Mercure Antibes,3 étoiles,2024-07-04,Thursday,July,False,256.51
+Antibes,Mercure Antibes,3 étoiles,2024-07-05,Friday,July,True,304.92
+Antibes,Mercure Antibes,3 étoiles,2024-07-06,Saturday,July,True,284.99
+Antibes,Mercure Antibes,3 étoiles,2024-07-07,Sunday,July,True,206.5
+Antibes,Mercure Antibes,3 étoiles,2024-07-08,Monday,July,False,165.59
+Antibes,Mercure Antibes,3 étoiles,2024-07-09,Tuesday,July,False,153.95
+Antibes,Mercure Antibes,3 étoiles,2024-07-10,Wednesday,July,False,163.43
+Antibes,Mercure Antibes,3 étoiles,2024-07-11,Thursday,July,False,179.24
+Antibes,Mercure Antibes,3 étoiles,2024-07-12,Friday,July,True,292.33
+Antibes,Mercure Antibes,3 étoiles,2024-07-13,Saturday,July,True,313.67
+Antibes,Mercure Antibes,3 étoiles,2024-07-14,Sunday,July,True,317.87
+Antibes,Mercure Antibes,3 étoiles,2024-07-15,Monday,July,False,272.42
+Antibes,Mercure Antibes,3 étoiles,2024-07-16,Tuesday,July,False,293.11
+Antibes,Mercure Antibes,3 étoiles,2024-07-17,Wednesday,July,False,163.81
+Antibes,Mercure Antibes,3 étoiles,2024-07-18,Thursday,July,False,294.89
+Antibes,Mercure Antibes,3 étoiles,2024-07-19,Friday,July,True,382.38
+Antibes,Mercure Antibes,3 étoiles,2024-07-20,Saturday,July,True,361.55
+Antibes,Mercure Antibes,3 étoiles,2024-07-21,Sunday,July,True,344.93
+Antibes,Mercure Antibes,3 étoiles,2024-07-22,Monday,July,False,301.31
+Antibes,Mercure Antibes,3 étoiles,2024-07-23,Tuesday,July,False,156.86
+Antibes,Mercure Antibes,3 étoiles,2024-07-24,Wednesday,July,False,158.06
+Antibes,Mercure Antibes,3 étoiles,2024-07-25,Thursday,July,False,168.94
+Antibes,Mercure Antibes,3 étoiles,2024-07-26,Friday,July,True,199.51
+Antibes,Mercure Antibes,3 étoiles,2024-07-27,Saturday,July,True,219.63
+Antibes,Mercure Antibes,3 étoiles,2024-07-28,Sunday,July,True,197.22
+Antibes,Mercure Antibes,3 étoiles,2024-07-29,Monday,July,False,171.72
+Antibes,Mercure Antibes,3 étoiles,2024-07-30,Tuesday,July,False,173.47
+Antibes,Ibis Antibes,2 étoiles,2024-06-01,Saturday,June,True,86.65
+Antibes,Ibis Antibes,2 étoiles,2024-06-02,Sunday,June,True,99.14
+Antibes,Ibis Antibes,2 étoiles,2024-06-03,Monday,June,False,74.85
+Antibes,Ibis Antibes,2 étoiles,2024-06-04,Tuesday,June,False,87.38
+Antibes,Ibis Antibes,2 étoiles,2024-06-05,Wednesday,June,False,74.38
+Antibes,Ibis Antibes,2 étoiles,2024-06-06,Thursday,June,False,78.63
+Antibes,Ibis Antibes,2 étoiles,2024-06-07,Friday,June,True,88.04
+Antibes,Ibis Antibes,2 étoiles,2024-06-08,Saturday,June,True,105.54
+Antibes,Ibis Antibes,2 étoiles,2024-06-09,Sunday,June,True,96.04
+Antibes,Ibis Antibes,2 étoiles,2024-06-10,Monday,June,False,81.53
+Antibes,Ibis Antibes,2 étoiles,2024-06-11,Tuesday,June,False,73.07
+Antibes,Ibis Antibes,2 étoiles,2024-06-12,Wednesday,June,False,294.0
+Antibes,Ibis Antibes,2 étoiles,2024-06-13,Thursday,June,False,263.75
+Antibes,Ibis Antibes,2 étoiles,2024-06-14,Friday,June,True,362.75
+Antibes,Ibis Antibes,2 étoiles,2024-06-15,Saturday,June,True,316.19
+Antibes,Ibis Antibes,2 étoiles,2024-06-16,Sunday,June,True,315.21
+Antibes,Ibis Antibes,2 étoiles,2024-06-17,Monday,June,False,72.58
+Antibes,Ibis Antibes,2 étoiles,2024-06-18,Tuesday,June,False,103.42
+Antibes,Ibis Antibes,2 étoiles,2024-06-19,Wednesday,June,False,105.35
+Antibes,Ibis Antibes,2 étoiles,2024-06-20,Thursday,June,False,94.97
+Antibes,Ibis Antibes,2 étoiles,2024-06-21,Friday,June,True,131.68
+Antibes,Ibis Antibes,2 étoiles,2024-06-22,Saturday,June,True,123.63
+Antibes,Ibis Antibes,2 étoiles,2024-06-23,Sunday,June,True,96.47
+Antibes,Ibis Antibes,2 étoiles,2024-06-24,Monday,June,False,79.05
+Antibes,Ibis Antibes,2 étoiles,2024-06-25,Tuesday,June,False,78.41
+Antibes,Ibis Antibes,2 étoiles,2024-06-26,Wednesday,June,False,80.95
+Antibes,Ibis Antibes,2 étoiles,2024-06-27,Thursday,June,False,74.48
+Antibes,Ibis Antibes,2 étoiles,2024-06-28,Friday,June,True,89.89
+Antibes,Ibis Antibes,2 étoiles,2024-06-29,Saturday,June,True,102.95
+Antibes,Ibis Antibes,2 étoiles,2024-06-30,Sunday,June,True,104.57
+Antibes,Ibis Antibes,2 étoiles,2024-07-01,Monday,July,False,101.36
+Antibes,Ibis Antibes,2 étoiles,2024-07-02,Tuesday,July,False,138.92
+Antibes,Ibis Antibes,2 étoiles,2024-07-03,Wednesday,July,False,149.79
+Antibes,Ibis Antibes,2 étoiles,2024-07-04,Thursday,July,False,142.94
+Antibes,Ibis Antibes,2 étoiles,2024-07-05,Friday,July,True,158.14
+Antibes,Ibis Antibes,2 étoiles,2024-07-06,Saturday,July,True,162.7
+Antibes,Ibis Antibes,2 étoiles,2024-07-07,Sunday,July,True,130.19
+Antibes,Ibis Antibes,2 étoiles,2024-07-08,Monday,July,False,107.31
+Antibes,Ibis Antibes,2 étoiles,2024-07-09,Tuesday,July,False,94.16
+Antibes,Ibis Antibes,2 étoiles,2024-07-10,Wednesday,July,False,98.22
+Antibes,Ibis Antibes,2 étoiles,2024-07-11,Thursday,July,False,98.41
+Antibes,Ibis Antibes,2 étoiles,2024-07-12,Friday,July,True,206.54
+Antibes,Ibis Antibes,2 étoiles,2024-07-13,Saturday,July,True,180.5
+Antibes,Ibis Antibes,2 étoiles,2024-07-14,Sunday,July,True,183.87
+Antibes,Ibis Antibes,2 étoiles,2024-07-15,Monday,July,False,176.38
+Antibes,Ibis Antibes,2 étoiles,2024-07-16,Tuesday,July,False,155.7
+Antibes,Ibis Antibes,2 étoiles,2024-07-17,Wednesday,July,False,107.18
+Antibes,Ibis Antibes,2 étoiles,2024-07-18,Thursday,July,False,177.4
+Antibes,Ibis Antibes,2 étoiles,2024-07-19,Friday,July,True,206.64
+Antibes,Ibis Antibes,2 étoiles,2024-07-20,Saturday,July,True,213.1
+Antibes,Ibis Antibes,2 étoiles,2024-07-21,Sunday,July,True,234.63
+Antibes,Ibis Antibes,2 étoiles,2024-07-22,Monday,July,False,200.52
+Antibes,Ibis Antibes,2 étoiles,2024-07-23,Tuesday,July,False,110.87
+Antibes,Ibis Antibes,2 étoiles,2024-07-24,Wednesday,July,False,101.86
+Antibes,Ibis Antibes,2 étoiles,2024-07-25,Thursday,July,False,107.5
+Antibes,Ibis Antibes,2 étoiles,2024-07-26,Friday,July,True,117.44
+Antibes,Ibis Antibes,2 étoiles,2024-07-27,Saturday,July,True,119.64
+Antibes,Ibis Antibes,2 étoiles,2024-07-28,Sunday,July,True,134.69
+Antibes,Ibis Antibes,2 étoiles,2024-07-29,Monday,July,False,93.87
+Antibes,Ibis Antibes,2 étoiles,2024-07-30,Tuesday,July,False,95.38
+Menton,Hotel Napoleon,5 étoiles,2024-06-01,Saturday,June,True,361.57
+Menton,Hotel Napoleon,5 étoiles,2024-06-02,Sunday,June,True,347.64
+Menton,Hotel Napoleon,5 étoiles,2024-06-03,Monday,June,False,299.61
+Menton,Hotel Napoleon,5 étoiles,2024-06-04,Tuesday,June,False,325.31
+Menton,Hotel Napoleon,5 étoiles,2024-06-05,Wednesday,June,False,314.97
+Menton,Hotel Napoleon,5 étoiles,2024-06-06,Thursday,June,False,345.13
+Menton,Hotel Napoleon,5 étoiles,2024-06-07,Friday,June,True,408.38
+Menton,Hotel Napoleon,5 étoiles,2024-06-08,Saturday,June,True,371.85
+Menton,Hotel Napoleon,5 étoiles,2024-06-09,Sunday,June,True,365.52
+Menton,Hotel Napoleon,5 étoiles,2024-06-10,Monday,June,False,312.3
+Menton,Hotel Napoleon,5 étoiles,2024-06-11,Tuesday,June,False,325.78
+Menton,Hotel Napoleon,5 étoiles,2024-06-12,Wednesday,June,False,1068.05
+Menton,Hotel Napoleon,5 étoiles,2024-06-13,Thursday,June,False,1147.81
+Menton,Hotel Napoleon,5 étoiles,2024-06-14,Friday,June,True,1319.65
+Menton,Hotel Napoleon,5 étoiles,2024-06-15,Saturday,June,True,1357.99
+Menton,Hotel Napoleon,5 étoiles,2024-06-16,Sunday,June,True,1326.83
+Menton,Hotel Napoleon,5 étoiles,2024-06-17,Monday,June,False,306.85
+Menton,Hotel Napoleon,5 étoiles,2024-06-18,Tuesday,June,False,453.31
+Menton,Hotel Napoleon,5 étoiles,2024-06-19,Wednesday,June,False,437.93
+Menton,Hotel Napoleon,5 étoiles,2024-06-20,Thursday,June,False,386.06
+Menton,Hotel Napoleon,5 étoiles,2024-06-21,Friday,June,True,535.99
+Menton,Hotel Napoleon,5 étoiles,2024-06-22,Saturday,June,True,497.95
+Menton,Hotel Napoleon,5 étoiles,2024-06-23,Sunday,June,True,414.3
+Menton,Hotel Napoleon,5 étoiles,2024-06-24,Monday,June,False,339.19
+Menton,Hotel Napoleon,5 étoiles,2024-06-25,Tuesday,June,False,315.21
+Menton,Hotel Napoleon,5 étoiles,2024-06-26,Wednesday,June,False,289.44
+Menton,Hotel Napoleon,5 étoiles,2024-06-27,Thursday,June,False,305.2
+Menton,Hotel Napoleon,5 étoiles,2024-06-28,Friday,June,True,387.2
+Menton,Hotel Napoleon,5 étoiles,2024-06-29,Saturday,June,True,394.25
+Menton,Hotel Napoleon,5 étoiles,2024-06-30,Sunday,June,True,365.41
+Menton,Hotel Napoleon,5 étoiles,2024-07-01,Monday,July,False,385.99
+Menton,Hotel Napoleon,5 étoiles,2024-07-02,Tuesday,July,False,621.41
+Menton,Hotel Napoleon,5 étoiles,2024-07-03,Wednesday,July,False,638.82
+Menton,Hotel Napoleon,5 étoiles,2024-07-04,Thursday,July,False,585.39
+Menton,Hotel Napoleon,5 étoiles,2024-07-05,Friday,July,True,652.99
+Menton,Hotel Napoleon,5 étoiles,2024-07-06,Saturday,July,True,667.05
+Menton,Hotel Napoleon,5 étoiles,2024-07-07,Sunday,July,True,451.12
+Menton,Hotel Napoleon,5 étoiles,2024-07-08,Monday,July,False,450.47
+Menton,Hotel Napoleon,5 étoiles,2024-07-09,Tuesday,July,False,384.2
+Menton,Hotel Napoleon,5 étoiles,2024-07-10,Wednesday,July,False,422.37
+Menton,Hotel Napoleon,5 étoiles,2024-07-11,Thursday,July,False,397.2
+Menton,Hotel Napoleon,5 étoiles,2024-07-12,Friday,July,True,807.37
+Menton,Hotel Napoleon,5 étoiles,2024-07-13,Saturday,July,True,822.91
+Menton,Hotel Napoleon,5 étoiles,2024-07-14,Sunday,July,True,851.39
+Menton,Hotel Napoleon,5 étoiles,2024-07-15,Monday,July,False,626.52
+Menton,Hotel Napoleon,5 étoiles,2024-07-16,Tuesday,July,False,600.5
+Menton,Hotel Napoleon,5 étoiles,2024-07-17,Wednesday,July,False,385.79
+Menton,Hotel Napoleon,5 étoiles,2024-07-18,Thursday,July,False,808.71
+Menton,Hotel Napoleon,5 étoiles,2024-07-19,Friday,July,True,965.75
+Menton,Hotel Napoleon,5 étoiles,2024-07-20,Saturday,July,True,916.07
+Menton,Hotel Napoleon,5 étoiles,2024-07-21,Sunday,July,True,916.62
+Menton,Hotel Napoleon,5 étoiles,2024-07-22,Monday,July,False,773.52
+Menton,Hotel Napoleon,5 étoiles,2024-07-23,Tuesday,July,False,388.99
+Menton,Hotel Napoleon,5 étoiles,2024-07-24,Wednesday,July,False,450.48
+Menton,Hotel Napoleon,5 étoiles,2024-07-25,Thursday,July,False,409.24
+Menton,Hotel Napoleon,5 étoiles,2024-07-26,Friday,July,True,487.53
+Menton,Hotel Napoleon,5 étoiles,2024-07-27,Saturday,July,True,501.09
+Menton,Hotel Napoleon,5 étoiles,2024-07-28,Sunday,July,True,453.97
+Menton,Hotel Napoleon,5 étoiles,2024-07-29,Monday,July,False,388.23
+Menton,Hotel Napoleon,5 étoiles,2024-07-30,Tuesday,July,False,435.8
+Menton,Hotel Lemon,5 étoiles,2024-06-01,Saturday,June,True,307.96
+Menton,Hotel Lemon,5 étoiles,2024-06-02,Sunday,June,True,342.93
+Menton,Hotel Lemon,5 étoiles,2024-06-03,Monday,June,False,265.74
+Menton,Hotel Lemon,5 étoiles,2024-06-04,Tuesday,June,False,273.8
+Menton,Hotel Lemon,5 étoiles,2024-06-05,Wednesday,June,False,268.17
+Menton,Hotel Lemon,5 étoiles,2024-06-06,Thursday,June,False,271.92
+Menton,Hotel Lemon,5 étoiles,2024-06-07,Friday,June,True,350.72
+Menton,Hotel Lemon,5 étoiles,2024-06-08,Saturday,June,True,322.37
+Menton,Hotel Lemon,5 étoiles,2024-06-09,Sunday,June,True,340.46
+Menton,Hotel Lemon,5 étoiles,2024-06-10,Monday,June,False,278.66
+Menton,Hotel Lemon,5 étoiles,2024-06-11,Tuesday,June,False,289.17
+Menton,Hotel Lemon,5 étoiles,2024-06-12,Wednesday,June,False,1065.62
+Menton,Hotel Lemon,5 étoiles,2024-06-13,Thursday,June,False,1025.58
+Menton,Hotel Lemon,5 étoiles,2024-06-14,Friday,June,True,1108.95
+Menton,Hotel Lemon,5 étoiles,2024-06-15,Saturday,June,True,1065.73
+Menton,Hotel Lemon,5 étoiles,2024-06-16,Sunday,June,True,1120.08
+Menton,Hotel Lemon,5 étoiles,2024-06-17,Monday,June,False,285.32
+Menton,Hotel Lemon,5 étoiles,2024-06-18,Tuesday,June,False,331.34
+Menton,Hotel Lemon,5 étoiles,2024-06-19,Wednesday,June,False,363.74
+Menton,Hotel Lemon,5 étoiles,2024-06-20,Thursday,June,False,371.05
+Menton,Hotel Lemon,5 étoiles,2024-06-21,Friday,June,True,422.32
+Menton,Hotel Lemon,5 étoiles,2024-06-22,Saturday,June,True,460.47
+Menton,Hotel Lemon,5 étoiles,2024-06-23,Sunday,June,True,309.56
+Menton,Hotel Lemon,5 étoiles,2024-06-24,Monday,June,False,256.21
+Menton,Hotel Lemon,5 étoiles,2024-06-25,Tuesday,June,False,292.78
+Menton,Hotel Lemon,5 étoiles,2024-06-26,Wednesday,June,False,279.75
+Menton,Hotel Lemon,5 étoiles,2024-06-27,Thursday,June,False,290.55
+Menton,Hotel Lemon,5 étoiles,2024-06-28,Friday,June,True,331.62
+Menton,Hotel Lemon,5 étoiles,2024-06-29,Saturday,June,True,318.96
+Menton,Hotel Lemon,5 étoiles,2024-06-30,Sunday,June,True,357.44
+Menton,Hotel Lemon,5 étoiles,2024-07-01,Monday,July,False,385.8
+Menton,Hotel Lemon,5 étoiles,2024-07-02,Tuesday,July,False,529.44
+Menton,Hotel Lemon,5 étoiles,2024-07-03,Wednesday,July,False,486.38
+Menton,Hotel Lemon,5 étoiles,2024-07-04,Thursday,July,False,518.8
+Menton,Hotel Lemon,5 étoiles,2024-07-05,Friday,July,True,594.52
+Menton,Hotel Lemon,5 étoiles,2024-07-06,Saturday,July,True,561.57
+Menton,Hotel Lemon,5 étoiles,2024-07-07,Sunday,July,True,473.26
+Menton,Hotel Lemon,5 étoiles,2024-07-08,Monday,July,False,337.56
+Menton,Hotel Lemon,5 étoiles,2024-07-09,Tuesday,July,False,396.78
+Menton,Hotel Lemon,5 étoiles,2024-07-10,Wednesday,July,False,360.07
+Menton,Hotel Lemon,5 étoiles,2024-07-11,Thursday,July,False,341.08
+Menton,Hotel Lemon,5 étoiles,2024-07-12,Friday,July,True,704.74
+Menton,Hotel Lemon,5 étoiles,2024-07-13,Saturday,July,True,751.01
+Menton,Hotel Lemon,5 étoiles,2024-07-14,Sunday,July,True,731.34
+Menton,Hotel Lemon,5 étoiles,2024-07-15,Monday,July,False,618.11
+Menton,Hotel Lemon,5 étoiles,2024-07-16,Tuesday,July,False,600.9
+Menton,Hotel Lemon,5 étoiles,2024-07-17,Wednesday,July,False,378.0
+Menton,Hotel Lemon,5 étoiles,2024-07-18,Thursday,July,False,700.96
+Menton,Hotel Lemon,5 étoiles,2024-07-19,Friday,July,True,746.88
+Menton,Hotel Lemon,5 étoiles,2024-07-20,Saturday,July,True,784.58
+Menton,Hotel Lemon,5 étoiles,2024-07-21,Sunday,July,True,742.4
+Menton,Hotel Lemon,5 étoiles,2024-07-22,Monday,July,False,719.1
+Menton,Hotel Lemon,5 étoiles,2024-07-23,Tuesday,July,False,396.33
+Menton,Hotel Lemon,5 étoiles,2024-07-24,Wednesday,July,False,330.47
+Menton,Hotel Lemon,5 étoiles,2024-07-25,Thursday,July,False,378.97
+Menton,Hotel Lemon,5 étoiles,2024-07-26,Friday,July,True,473.95
+Menton,Hotel Lemon,5 étoiles,2024-07-27,Saturday,July,True,408.9
+Menton,Hotel Lemon,5 étoiles,2024-07-28,Sunday,July,True,442.74
+Menton,Hotel Lemon,5 étoiles,2024-07-29,Monday,July,False,394.25
+Menton,Hotel Lemon,5 étoiles,2024-07-30,Tuesday,July,False,330.07
+Menton,Hotel Medicis,4 étoiles,2024-06-01,Saturday,June,True,224.53
+Menton,Hotel Medicis,4 étoiles,2024-06-02,Sunday,June,True,207.25
+Menton,Hotel Medicis,4 étoiles,2024-06-03,Monday,June,False,195.28
+Menton,Hotel Medicis,4 étoiles,2024-06-04,Tuesday,June,False,196.96
+Menton,Hotel Medicis,4 étoiles,2024-06-05,Wednesday,June,False,195.99
+Menton,Hotel Medicis,4 étoiles,2024-06-06,Thursday,June,False,179.07
+Menton,Hotel Medicis,4 étoiles,2024-06-07,Friday,June,True,231.64
+Menton,Hotel Medicis,4 étoiles,2024-06-08,Saturday,June,True,230.88
+Menton,Hotel Medicis,4 étoiles,2024-06-09,Sunday,June,True,208.19
+Menton,Hotel Medicis,4 étoiles,2024-06-10,Monday,June,False,191.84
+Menton,Hotel Medicis,4 étoiles,2024-06-11,Tuesday,June,False,163.33
+Menton,Hotel Medicis,4 étoiles,2024-06-12,Wednesday,June,False,642.13
+Menton,Hotel Medicis,4 étoiles,2024-06-13,Thursday,June,False,595.98
+Menton,Hotel Medicis,4 étoiles,2024-06-14,Friday,June,True,698.63
+Menton,Hotel Medicis,4 étoiles,2024-06-15,Saturday,June,True,692.04
+Menton,Hotel Medicis,4 étoiles,2024-06-16,Sunday,June,True,785.68
+Menton,Hotel Medicis,4 étoiles,2024-06-17,Monday,June,False,174.24
+Menton,Hotel Medicis,4 étoiles,2024-06-18,Tuesday,June,False,244.52
+Menton,Hotel Medicis,4 étoiles,2024-06-19,Wednesday,June,False,213.66
+Menton,Hotel Medicis,4 étoiles,2024-06-20,Thursday,June,False,225.36
+Menton,Hotel Medicis,4 étoiles,2024-06-21,Friday,June,True,283.02
+Menton,Hotel Medicis,4 étoiles,2024-06-22,Saturday,June,True,297.13
+Menton,Hotel Medicis,4 étoiles,2024-06-23,Sunday,June,True,208.17
+Menton,Hotel Medicis,4 étoiles,2024-06-24,Monday,June,False,184.53
+Menton,Hotel Medicis,4 étoiles,2024-06-25,Tuesday,June,False,193.9
+Menton,Hotel Medicis,4 étoiles,2024-06-26,Wednesday,June,False,184.17
+Menton,Hotel Medicis,4 étoiles,2024-06-27,Thursday,June,False,170.39
+Menton,Hotel Medicis,4 étoiles,2024-06-28,Friday,June,True,195.45
+Menton,Hotel Medicis,4 étoiles,2024-06-29,Saturday,June,True,231.99
+Menton,Hotel Medicis,4 étoiles,2024-06-30,Sunday,June,True,195.32
+Menton,Hotel Medicis,4 étoiles,2024-07-01,Monday,July,False,251.54
+Menton,Hotel Medicis,4 étoiles,2024-07-02,Tuesday,July,False,329.5
+Menton,Hotel Medicis,4 étoiles,2024-07-03,Wednesday,July,False,356.37
+Menton,Hotel Medicis,4 étoiles,2024-07-04,Thursday,July,False,347.18
+Menton,Hotel Medicis,4 étoiles,2024-07-05,Friday,July,True,432.27
+Menton,Hotel Medicis,4 étoiles,2024-07-06,Saturday,July,True,381.38
+Menton,Hotel Medicis,4 étoiles,2024-07-07,Sunday,July,True,295.81
+Menton,Hotel Medicis,4 étoiles,2024-07-08,Monday,July,False,229.41
+Menton,Hotel Medicis,4 étoiles,2024-07-09,Tuesday,July,False,233.06
+Menton,Hotel Medicis,4 étoiles,2024-07-10,Wednesday,July,False,239.97
+Menton,Hotel Medicis,4 étoiles,2024-07-11,Thursday,July,False,251.49
+Menton,Hotel Medicis,4 étoiles,2024-07-12,Friday,July,True,492.78
+Menton,Hotel Medicis,4 étoiles,2024-07-13,Saturday,July,True,473.39
+Menton,Hotel Medicis,4 étoiles,2024-07-14,Sunday,July,True,441.89
+Menton,Hotel Medicis,4 étoiles,2024-07-15,Monday,July,False,368.51
+Menton,Hotel Medicis,4 étoiles,2024-07-16,Tuesday,July,False,392.19
+Menton,Hotel Medicis,4 étoiles,2024-07-17,Wednesday,July,False,221.77
+Menton,Hotel Medicis,4 étoiles,2024-07-18,Thursday,July,False,388.39
+Menton,Hotel Medicis,4 étoiles,2024-07-19,Friday,July,True,490.74
+Menton,Hotel Medicis,4 étoiles,2024-07-20,Saturday,July,True,483.93
+Menton,Hotel Medicis,4 étoiles,2024-07-21,Sunday,July,True,484.85
+Menton,Hotel Medicis,4 étoiles,2024-07-22,Monday,July,False,398.76
+Menton,Hotel Medicis,4 étoiles,2024-07-23,Tuesday,July,False,212.57
+Menton,Hotel Medicis,4 étoiles,2024-07-24,Wednesday,July,False,211.44
+Menton,Hotel Medicis,4 étoiles,2024-07-25,Thursday,July,False,256.83
+Menton,Hotel Medicis,4 étoiles,2024-07-26,Friday,July,True,276.74
+Menton,Hotel Medicis,4 étoiles,2024-07-27,Saturday,July,True,274.3
+Menton,Hotel Medicis,4 étoiles,2024-07-28,Sunday,July,True,290.89
+Menton,Hotel Medicis,4 étoiles,2024-07-29,Monday,July,False,220.81
+Menton,Hotel Medicis,4 étoiles,2024-07-30,Tuesday,July,False,255.06
+Menton,Mercure Menton,3 étoiles,2024-06-01,Saturday,June,True,126.87
+Menton,Mercure Menton,3 étoiles,2024-06-02,Sunday,June,True,110.15
+Menton,Mercure Menton,3 étoiles,2024-06-03,Monday,June,False,98.35
+Menton,Mercure Menton,3 étoiles,2024-06-04,Tuesday,June,False,107.58
+Menton,Mercure Menton,3 étoiles,2024-06-05,Wednesday,June,False,108.89
+Menton,Mercure Menton,3 étoiles,2024-06-06,Thursday,June,False,99.35
+Menton,Mercure Menton,3 étoiles,2024-06-07,Friday,June,True,122.72
+Menton,Mercure Menton,3 étoiles,2024-06-08,Saturday,June,True,112.01
+Menton,Mercure Menton,3 étoiles,2024-06-09,Sunday,June,True,131.79
+Menton,Mercure Menton,3 étoiles,2024-06-10,Monday,June,False,94.63
+Menton,Mercure Menton,3 étoiles,2024-06-11,Tuesday,June,False,108.85
+Menton,Mercure Menton,3 étoiles,2024-06-12,Wednesday,June,False,360.48
+Menton,Mercure Menton,3 étoiles,2024-06-13,Thursday,June,False,357.54
+Menton,Mercure Menton,3 étoiles,2024-06-14,Friday,June,True,421.07
+Menton,Mercure Menton,3 étoiles,2024-06-15,Saturday,June,True,397.38
+Menton,Mercure Menton,3 étoiles,2024-06-16,Sunday,June,True,392.83
+Menton,Mercure Menton,3 étoiles,2024-06-17,Monday,June,False,94.41
+Menton,Mercure Menton,3 étoiles,2024-06-18,Tuesday,June,False,121.85
+Menton,Mercure Menton,3 étoiles,2024-06-19,Wednesday,June,False,137.27
+Menton,Mercure Menton,3 étoiles,2024-06-20,Thursday,June,False,126.1
+Menton,Mercure Menton,3 étoiles,2024-06-21,Friday,June,True,142.2
+Menton,Mercure Menton,3 étoiles,2024-06-22,Saturday,June,True,170.64
+Menton,Mercure Menton,3 étoiles,2024-06-23,Sunday,June,True,129.21
+Menton,Mercure Menton,3 étoiles,2024-06-24,Monday,June,False,108.56
+Menton,Mercure Menton,3 étoiles,2024-06-25,Tuesday,June,False,109.9
+Menton,Mercure Menton,3 étoiles,2024-06-26,Wednesday,June,False,93.48
+Menton,Mercure Menton,3 étoiles,2024-06-27,Thursday,June,False,97.92
+Menton,Mercure Menton,3 étoiles,2024-06-28,Friday,June,True,126.2
+Menton,Mercure Menton,3 étoiles,2024-06-29,Saturday,June,True,124.7
+Menton,Mercure Menton,3 étoiles,2024-06-30,Sunday,June,True,111.69
+Menton,Mercure Menton,3 étoiles,2024-07-01,Monday,July,False,138.21
+Menton,Mercure Menton,3 étoiles,2024-07-02,Tuesday,July,False,171.97
+Menton,Mercure Menton,3 étoiles,2024-07-03,Wednesday,July,False,171.95
+Menton,Mercure Menton,3 étoiles,2024-07-04,Thursday,July,False,183.35
+Menton,Mercure Menton,3 étoiles,2024-07-05,Friday,July,True,222.46
+Menton,Mercure Menton,3 étoiles,2024-07-06,Saturday,July,True,221.9
+Menton,Mercure Menton,3 étoiles,2024-07-07,Sunday,July,True,143.25
+Menton,Mercure Menton,3 étoiles,2024-07-08,Monday,July,False,139.81
+Menton,Mercure Menton,3 étoiles,2024-07-09,Tuesday,July,False,123.91
+Menton,Mercure Menton,3 étoiles,2024-07-10,Wednesday,July,False,120.37
+Menton,Mercure Menton,3 étoiles,2024-07-11,Thursday,July,False,140.11
+Menton,Mercure Menton,3 étoiles,2024-07-12,Friday,July,True,272.35
+Menton,Mercure Menton,3 étoiles,2024-07-13,Saturday,July,True,267.68
+Menton,Mercure Menton,3 étoiles,2024-07-14,Sunday,July,True,265.05
+Menton,Mercure Menton,3 étoiles,2024-07-15,Monday,July,False,214.46
+Menton,Mercure Menton,3 étoiles,2024-07-16,Tuesday,July,False,210.12
+Menton,Mercure Menton,3 étoiles,2024-07-17,Wednesday,July,False,119.26
+Menton,Mercure Menton,3 étoiles,2024-07-18,Thursday,July,False,229.72
+Menton,Mercure Menton,3 étoiles,2024-07-19,Friday,July,True,273.65
+Menton,Mercure Menton,3 étoiles,2024-07-20,Saturday,July,True,267.31
+Menton,Mercure Menton,3 étoiles,2024-07-21,Sunday,July,True,293.35
+Menton,Mercure Menton,3 étoiles,2024-07-22,Monday,July,False,233.81
+Menton,Mercure Menton,3 étoiles,2024-07-23,Tuesday,July,False,119.11
+Menton,Mercure Menton,3 étoiles,2024-07-24,Wednesday,July,False,122.72
+Menton,Mercure Menton,3 étoiles,2024-07-25,Thursday,July,False,134.76
+Menton,Mercure Menton,3 étoiles,2024-07-26,Friday,July,True,142.78
+Menton,Mercure Menton,3 étoiles,2024-07-27,Saturday,July,True,166.96
+Menton,Mercure Menton,3 étoiles,2024-07-28,Sunday,July,True,155.85
+Menton,Mercure Menton,3 étoiles,2024-07-29,Monday,July,False,129.5
+Menton,Mercure Menton,3 étoiles,2024-07-30,Tuesday,July,False,132.4
+Menton,Ibis Menton,2 étoiles,2024-06-01,Saturday,June,True,83.07
+Menton,Ibis Menton,2 étoiles,2024-06-02,Sunday,June,True,75.63
+Menton,Ibis Menton,2 étoiles,2024-06-03,Monday,June,False,67.31
+Menton,Ibis Menton,2 étoiles,2024-06-04,Tuesday,June,False,65.85
+Menton,Ibis Menton,2 étoiles,2024-06-05,Wednesday,June,False,61.97
+Menton,Ibis Menton,2 étoiles,2024-06-06,Thursday,June,False,69.92
+Menton,Ibis Menton,2 étoiles,2024-06-07,Friday,June,True,82.64
+Menton,Ibis Menton,2 étoiles,2024-06-08,Saturday,June,True,80.47
+Menton,Ibis Menton,2 étoiles,2024-06-09,Sunday,June,True,83.47
+Menton,Ibis Menton,2 étoiles,2024-06-10,Monday,June,False,69.77
+Menton,Ibis Menton,2 étoiles,2024-06-11,Tuesday,June,False,67.71
+Menton,Ibis Menton,2 étoiles,2024-06-12,Wednesday,June,False,242.83
+Menton,Ibis Menton,2 étoiles,2024-06-13,Thursday,June,False,236.48
+Menton,Ibis Menton,2 étoiles,2024-06-14,Friday,June,True,282.84
+Menton,Ibis Menton,2 étoiles,2024-06-15,Saturday,June,True,279.48
+Menton,Ibis Menton,2 étoiles,2024-06-16,Sunday,June,True,286.8
+Menton,Ibis Menton,2 étoiles,2024-06-17,Monday,June,False,60.56
+Menton,Ibis Menton,2 étoiles,2024-06-18,Tuesday,June,False,90.94
+Menton,Ibis Menton,2 étoiles,2024-06-19,Wednesday,June,False,90.78
+Menton,Ibis Menton,2 étoiles,2024-06-20,Thursday,June,False,76.54
+Menton,Ibis Menton,2 étoiles,2024-06-21,Friday,June,True,108.01
+Menton,Ibis Menton,2 étoiles,2024-06-22,Saturday,June,True,93.87
+Menton,Ibis Menton,2 étoiles,2024-06-23,Sunday,June,True,75.43
+Menton,Ibis Menton,2 étoiles,2024-06-24,Monday,June,False,68.17
+Menton,Ibis Menton,2 étoiles,2024-06-25,Tuesday,June,False,60.59
+Menton,Ibis Menton,2 étoiles,2024-06-26,Wednesday,June,False,69.13
+Menton,Ibis Menton,2 étoiles,2024-06-27,Thursday,June,False,69.32
+Menton,Ibis Menton,2 étoiles,2024-06-28,Friday,June,True,78.12
+Menton,Ibis Menton,2 étoiles,2024-06-29,Saturday,June,True,70.3
+Menton,Ibis Menton,2 étoiles,2024-06-30,Sunday,June,True,74.68
+Menton,Ibis Menton,2 étoiles,2024-07-01,Monday,July,False,86.48
+Menton,Ibis Menton,2 étoiles,2024-07-02,Tuesday,July,False,129.68
+Menton,Ibis Menton,2 étoiles,2024-07-03,Wednesday,July,False,121.42
+Menton,Ibis Menton,2 étoiles,2024-07-04,Thursday,July,False,112.62
+Menton,Ibis Menton,2 étoiles,2024-07-05,Friday,July,True,145.76
+Menton,Ibis Menton,2 étoiles,2024-07-06,Saturday,July,True,143.1
+Menton,Ibis Menton,2 étoiles,2024-07-07,Sunday,July,True,107.08
+Menton,Ibis Menton,2 étoiles,2024-07-08,Monday,July,False,77.86
+Menton,Ibis Menton,2 étoiles,2024-07-09,Tuesday,July,False,88.91
+Menton,Ibis Menton,2 étoiles,2024-07-10,Wednesday,July,False,85.2
+Menton,Ibis Menton,2 étoiles,2024-07-11,Thursday,July,False,92.32
+Menton,Ibis Menton,2 étoiles,2024-07-12,Friday,July,True,157.11
+Menton,Ibis Menton,2 étoiles,2024-07-13,Saturday,July,True,166.54
+Menton,Ibis Menton,2 étoiles,2024-07-14,Sunday,July,True,176.26
+Menton,Ibis Menton,2 étoiles,2024-07-15,Monday,July,False,124.45
+Menton,Ibis Menton,2 étoiles,2024-07-16,Tuesday,July,False,147.02
+Menton,Ibis Menton,2 étoiles,2024-07-17,Wednesday,July,False,87.68
+Menton,Ibis Menton,2 étoiles,2024-07-18,Thursday,July,False,138.95
+Menton,Ibis Menton,2 étoiles,2024-07-19,Friday,July,True,175.25
+Menton,Ibis Menton,2 étoiles,2024-07-20,Saturday,July,True,190.12
+Menton,Ibis Menton,2 étoiles,2024-07-21,Sunday,July,True,166.73
+Menton,Ibis Menton,2 étoiles,2024-07-22,Monday,July,False,154.6
+Menton,Ibis Menton,2 étoiles,2024-07-23,Tuesday,July,False,81.9
+Menton,Ibis Menton,2 étoiles,2024-07-24,Wednesday,July,False,86.54
+Menton,Ibis Menton,2 étoiles,2024-07-25,Thursday,July,False,76.82
+Menton,Ibis Menton,2 étoiles,2024-07-26,Friday,July,True,108.93
+Menton,Ibis Menton,2 étoiles,2024-07-27,Saturday,July,True,111.0
+Menton,Ibis Menton,2 étoiles,2024-07-28,Sunday,July,True,110.91
+Menton,Ibis Menton,2 étoiles,2024-07-29,Monday,July,False,88.72
+Menton,Ibis Menton,2 étoiles,2024-07-30,Tuesday,July,False,78.25
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-01,Saturday,June,True,479.55
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-02,Sunday,June,True,412.64
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-03,Monday,June,False,343.68
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-04,Tuesday,June,False,366.59
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-05,Wednesday,June,False,379.14
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-06,Thursday,June,False,400.55
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-07,Friday,June,True,472.72
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-08,Saturday,June,True,451.07
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-09,Sunday,June,True,435.35
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-10,Monday,June,False,417.78
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-11,Tuesday,June,False,374.39
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-12,Wednesday,June,False,1317.07
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-13,Thursday,June,False,1240.52
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-14,Friday,June,True,1690.1
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-15,Saturday,June,True,1657.82
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-16,Sunday,June,True,1506.87
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-17,Monday,June,False,348.26
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-18,Tuesday,June,False,511.83
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-19,Wednesday,June,False,509.27
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-20,Thursday,June,False,471.6
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-21,Friday,June,True,646.25
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-22,Saturday,June,True,551.43
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-23,Sunday,June,True,449.83
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-24,Monday,June,False,413.71
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-25,Tuesday,June,False,373.9
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-26,Wednesday,June,False,390.53
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-27,Thursday,June,False,372.22
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-28,Friday,June,True,435.41
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-29,Saturday,June,True,500.14
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-06-30,Sunday,June,True,447.73
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-01,Monday,July,False,532.94
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-02,Tuesday,July,False,654.25
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-03,Wednesday,July,False,651.92
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-04,Thursday,July,False,626.75
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-05,Friday,July,True,855.09
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-06,Saturday,July,True,808.1
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-07,Sunday,July,True,636.0
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-08,Monday,July,False,491.35
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-09,Tuesday,July,False,540.26
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-10,Wednesday,July,False,462.93
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-11,Thursday,July,False,530.42
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-12,Friday,July,True,1000.95
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-13,Saturday,July,True,999.87
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-14,Sunday,July,True,1013.88
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-15,Monday,July,False,831.66
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-16,Tuesday,July,False,810.35
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-17,Wednesday,July,False,457.57
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-18,Thursday,July,False,806.06
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-19,Friday,July,True,1156.85
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-20,Saturday,July,True,1091.93
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-21,Sunday,July,True,1130.32
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-22,Monday,July,False,885.91
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-23,Tuesday,July,False,456.19
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-24,Wednesday,July,False,456.97
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-25,Thursday,July,False,512.33
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-26,Friday,July,True,584.54
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-27,Saturday,July,True,557.29
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-28,Sunday,July,True,591.8
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-29,Monday,July,False,450.94
+Juan-les-Pins,Hotel Belles Rives,5 étoiles,2024-07-30,Tuesday,July,False,502.1
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-01,Saturday,June,True,366.26
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-02,Sunday,June,True,406.85
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-03,Monday,June,False,307.86
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-04,Tuesday,June,False,317.13
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-05,Wednesday,June,False,288.74
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-06,Thursday,June,False,292.64
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-07,Friday,June,True,375.74
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-08,Saturday,June,True,382.46
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-09,Sunday,June,True,391.68
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-10,Monday,June,False,306.67
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-11,Tuesday,June,False,332.48
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-12,Wednesday,June,False,1200.67
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-13,Thursday,June,False,1182.69
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-14,Friday,June,True,1220.25
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-15,Saturday,June,True,1338.76
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-16,Sunday,June,True,1237.81
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-17,Monday,June,False,303.49
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-18,Tuesday,June,False,456.49
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-19,Wednesday,June,False,386.26
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-20,Thursday,June,False,415.91
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-21,Friday,June,True,511.0
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-22,Saturday,June,True,519.41
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-23,Sunday,June,True,388.58
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-24,Monday,June,False,288.63
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-25,Tuesday,June,False,308.89
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-26,Wednesday,June,False,321.13
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-27,Thursday,June,False,293.62
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-28,Friday,June,True,372.53
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-29,Saturday,June,True,348.15
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-06-30,Sunday,June,True,351.63
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-01,Monday,July,False,407.42
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-02,Tuesday,July,False,539.62
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-03,Wednesday,July,False,590.27
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-04,Thursday,July,False,604.47
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-05,Friday,July,True,740.89
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-06,Saturday,July,True,656.97
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-07,Sunday,July,True,466.0
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-08,Monday,July,False,383.1
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-09,Tuesday,July,False,427.35
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-10,Wednesday,July,False,433.18
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-11,Thursday,July,False,377.03
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-12,Friday,July,True,868.4
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-13,Saturday,July,True,727.15
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-14,Sunday,July,True,805.32
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-15,Monday,July,False,693.43
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-16,Tuesday,July,False,714.98
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-17,Wednesday,July,False,433.81
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-18,Thursday,July,False,793.99
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-19,Friday,July,True,869.71
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-20,Saturday,July,True,955.14
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-21,Sunday,July,True,823.1
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-22,Monday,July,False,807.93
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-23,Tuesday,July,False,419.96
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-24,Wednesday,July,False,442.4
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-25,Thursday,July,False,412.03
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-26,Friday,July,True,513.53
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-27,Saturday,July,True,501.84
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-28,Sunday,July,True,522.32
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-29,Monday,July,False,381.19
+Juan-les-Pins,Hotel Juana,5 étoiles,2024-07-30,Tuesday,July,False,379.42
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-01,Saturday,June,True,227.86
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-02,Sunday,June,True,223.66
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-03,Monday,June,False,214.87
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-04,Tuesday,June,False,188.77
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-05,Wednesday,June,False,219.03
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-06,Thursday,June,False,193.48
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-07,Friday,June,True,224.74
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-08,Saturday,June,True,253.91
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-09,Sunday,June,True,247.62
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-10,Monday,June,False,199.93
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-11,Tuesday,June,False,202.21
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-12,Wednesday,June,False,730.69
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-13,Thursday,June,False,661.98
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-14,Friday,June,True,923.38
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-15,Saturday,June,True,919.77
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-16,Sunday,June,True,865.25
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-17,Monday,June,False,187.98
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-18,Tuesday,June,False,269.37
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-19,Wednesday,June,False,237.75
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-20,Thursday,June,False,235.59
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-21,Friday,June,True,296.88
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-22,Saturday,June,True,309.67
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-23,Sunday,June,True,257.68
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-24,Monday,June,False,209.09
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-25,Tuesday,June,False,209.71
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-26,Wednesday,June,False,197.02
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-27,Thursday,June,False,193.84
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-28,Friday,June,True,233.81
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-29,Saturday,June,True,263.41
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-06-30,Sunday,June,True,217.93
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-01,Monday,July,False,279.09
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-02,Tuesday,July,False,369.73
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-03,Wednesday,July,False,359.53
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-04,Thursday,July,False,380.4
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-05,Friday,July,True,435.64
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-06,Saturday,July,True,469.42
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-07,Sunday,July,True,337.0
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-08,Monday,July,False,255.93
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-09,Tuesday,July,False,248.4
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-10,Wednesday,July,False,264.8
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-11,Thursday,July,False,281.44
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-12,Friday,July,True,470.31
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-13,Saturday,July,True,511.48
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-14,Sunday,July,True,512.33
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-15,Monday,July,False,435.4
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-16,Tuesday,July,False,385.35
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-17,Wednesday,July,False,271.22
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-18,Thursday,July,False,506.29
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-19,Friday,July,True,525.62
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-20,Saturday,July,True,532.12
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-21,Sunday,July,True,614.55
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-22,Monday,July,False,438.14
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-23,Tuesday,July,False,278.43
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-24,Wednesday,July,False,259.6
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-25,Thursday,July,False,246.86
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-26,Friday,July,True,335.13
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-27,Saturday,July,True,308.59
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-28,Sunday,July,True,312.92
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-29,Monday,July,False,252.68
+Juan-les-Pins,Hotel Garden Beach,4 étoiles,2024-07-30,Tuesday,July,False,264.83
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-01,Saturday,June,True,123.12
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-02,Sunday,June,True,129.12
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-03,Monday,June,False,120.33
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-04,Tuesday,June,False,104.68
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-05,Wednesday,June,False,113.45
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-06,Thursday,June,False,106.15
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-07,Friday,June,True,139.22
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-08,Saturday,June,True,122.26
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-09,Sunday,June,True,144.4
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-10,Monday,June,False,108.98
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-11,Tuesday,June,False,104.19
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-12,Wednesday,June,False,352.16
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-13,Thursday,June,False,359.57
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-14,Friday,June,True,463.83
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-15,Saturday,June,True,446.94
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-16,Sunday,June,True,492.39
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-17,Monday,June,False,108.48
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-18,Tuesday,June,False,135.81
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-19,Wednesday,June,False,146.35
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-20,Thursday,June,False,148.91
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-21,Friday,June,True,160.17
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-22,Saturday,June,True,160.19
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-23,Sunday,June,True,119.77
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-24,Monday,June,False,115.2
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-25,Tuesday,June,False,113.6
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-26,Wednesday,June,False,109.44
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-27,Thursday,June,False,117.57
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-28,Friday,June,True,140.07
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-29,Saturday,June,True,134.25
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-06-30,Sunday,June,True,141.72
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-01,Monday,July,False,134.59
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-02,Tuesday,July,False,184.66
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-03,Wednesday,July,False,190.98
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-04,Thursday,July,False,182.47
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-05,Friday,July,True,241.74
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-06,Saturday,July,True,261.22
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-07,Sunday,July,True,155.79
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-08,Monday,July,False,132.19
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-09,Tuesday,July,False,141.63
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-10,Wednesday,July,False,155.41
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-11,Thursday,July,False,137.74
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-12,Friday,July,True,274.96
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-13,Saturday,July,True,249.39
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-14,Sunday,July,True,255.25
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-15,Monday,July,False,251.07
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-16,Tuesday,July,False,250.08
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-17,Wednesday,July,False,128.84
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-18,Thursday,July,False,280.66
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-19,Friday,July,True,317.47
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-20,Saturday,July,True,331.61
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-21,Sunday,July,True,306.08
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-22,Monday,July,False,258.2
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-23,Tuesday,July,False,142.68
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-24,Wednesday,July,False,147.77
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-25,Thursday,July,False,132.69
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-26,Friday,July,True,155.47
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-27,Saturday,July,True,165.01
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-28,Sunday,July,True,178.62
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-29,Monday,July,False,134.47
+Juan-les-Pins,Mercure Juan les Pins,3 étoiles,2024-07-30,Tuesday,July,False,147.96
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-01,Saturday,June,True,91.89
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-02,Sunday,June,True,77.18
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-03,Monday,June,False,72.42
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-04,Tuesday,June,False,69.21
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-05,Wednesday,June,False,75.15
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-06,Thursday,June,False,65.48
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-07,Friday,June,True,87.24
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-08,Saturday,June,True,89.68
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-09,Sunday,June,True,91.47
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-10,Monday,June,False,72.57
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-11,Tuesday,June,False,69.96
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-12,Wednesday,June,False,250.77
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-13,Thursday,June,False,263.08
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-14,Friday,June,True,298.15
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-15,Saturday,June,True,266.39
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-16,Sunday,June,True,319.34
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-17,Monday,June,False,72.65
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-18,Tuesday,June,False,94.21
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-19,Wednesday,June,False,85.83
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-20,Thursday,June,False,93.89
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-21,Friday,June,True,106.88
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-22,Saturday,June,True,112.5
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-23,Sunday,June,True,77.39
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-24,Monday,June,False,72.21
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-25,Tuesday,June,False,76.99
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-26,Wednesday,June,False,63.67
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-27,Thursday,June,False,76.68
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-28,Friday,June,True,82.44
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-29,Saturday,June,True,90.23
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-06-30,Sunday,June,True,88.74
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-01,Monday,July,False,92.22
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-02,Tuesday,July,False,133.48
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-03,Wednesday,July,False,137.04
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-04,Thursday,July,False,124.96
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-05,Friday,July,True,147.59
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-06,Saturday,July,True,158.0
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-07,Sunday,July,True,115.92
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-08,Monday,July,False,95.77
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-09,Tuesday,July,False,96.42
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-10,Wednesday,July,False,89.83
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-11,Thursday,July,False,96.78
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-12,Friday,July,True,161.45
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-13,Saturday,July,True,176.27
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-14,Sunday,July,True,157.45
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-15,Monday,July,False,140.49
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-16,Tuesday,July,False,141.71
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-17,Wednesday,July,False,89.11
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-18,Thursday,July,False,170.2
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-19,Friday,July,True,192.18
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-20,Saturday,July,True,194.54
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-21,Sunday,July,True,186.24
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-22,Monday,July,False,159.65
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-23,Tuesday,July,False,86.04
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-24,Wednesday,July,False,83.23
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-25,Thursday,July,False,92.88
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-26,Friday,July,True,112.87
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-27,Saturday,July,True,111.81
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-28,Sunday,July,True,108.4
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-29,Monday,July,False,88.81
+Juan-les-Pins,Ibis Juan les Pins,2 étoiles,2024-07-30,Tuesday,July,False,97.61
+Monaco,Hotel de Paris,5 étoiles,2024-06-01,Saturday,June,True,1084.12
+Monaco,Hotel de Paris,5 étoiles,2024-06-02,Sunday,June,True,1075.5
+Monaco,Hotel de Paris,5 étoiles,2024-06-03,Monday,June,False,814.62
+Monaco,Hotel de Paris,5 étoiles,2024-06-04,Tuesday,June,False,871.42
+Monaco,Hotel de Paris,5 étoiles,2024-06-05,Wednesday,June,False,878.44
+Monaco,Hotel de Paris,5 étoiles,2024-06-06,Thursday,June,False,881.79
+Monaco,Hotel de Paris,5 étoiles,2024-06-07,Friday,June,True,1097.32
+Monaco,Hotel de Paris,5 étoiles,2024-06-08,Saturday,June,True,1087.26
+Monaco,Hotel de Paris,5 étoiles,2024-06-09,Sunday,June,True,1103.31
+Monaco,Hotel de Paris,5 étoiles,2024-06-10,Monday,June,False,947.68
+Monaco,Hotel de Paris,5 étoiles,2024-06-11,Tuesday,June,False,956.34
+Monaco,Hotel de Paris,5 étoiles,2024-06-12,Wednesday,June,False,3287.42
+Monaco,Hotel de Paris,5 étoiles,2024-06-13,Thursday,June,False,3436.98
+Monaco,Hotel de Paris,5 étoiles,2024-06-14,Friday,June,True,3415.78
+Monaco,Hotel de Paris,5 étoiles,2024-06-15,Saturday,June,True,3550.01
+Monaco,Hotel de Paris,5 étoiles,2024-06-16,Sunday,June,True,3407.72
+Monaco,Hotel de Paris,5 étoiles,2024-06-17,Monday,June,False,926.55
+Monaco,Hotel de Paris,5 étoiles,2024-06-18,Tuesday,June,False,1263.14
+Monaco,Hotel de Paris,5 étoiles,2024-06-19,Wednesday,June,False,1109.97
+Monaco,Hotel de Paris,5 étoiles,2024-06-20,Thursday,June,False,1269.93
+Monaco,Hotel de Paris,5 étoiles,2024-06-21,Friday,June,True,1280.52
+Monaco,Hotel de Paris,5 étoiles,2024-06-22,Saturday,June,True,1525.99
+Monaco,Hotel de Paris,5 étoiles,2024-06-23,Sunday,June,True,1047.95
+Monaco,Hotel de Paris,5 étoiles,2024-06-24,Monday,June,False,828.26
+Monaco,Hotel de Paris,5 étoiles,2024-06-25,Tuesday,June,False,897.46
+Monaco,Hotel de Paris,5 étoiles,2024-06-26,Wednesday,June,False,856.22
+Monaco,Hotel de Paris,5 étoiles,2024-06-27,Thursday,June,False,861.28
+Monaco,Hotel de Paris,5 étoiles,2024-06-28,Friday,June,True,1038.37
+Monaco,Hotel de Paris,5 étoiles,2024-06-29,Saturday,June,True,1145.45
+Monaco,Hotel de Paris,5 étoiles,2024-06-30,Sunday,June,True,1088.46
+Monaco,Hotel de Paris,5 étoiles,2024-07-01,Monday,July,False,1125.85
+Monaco,Hotel de Paris,5 étoiles,2024-07-02,Tuesday,July,False,1674.15
+Monaco,Hotel de Paris,5 étoiles,2024-07-03,Wednesday,July,False,1708.81
+Monaco,Hotel de Paris,5 étoiles,2024-07-04,Thursday,July,False,1563.51
+Monaco,Hotel de Paris,5 étoiles,2024-07-05,Friday,July,True,1931.61
+Monaco,Hotel de Paris,5 étoiles,2024-07-06,Saturday,July,True,1816.96
+Monaco,Hotel de Paris,5 étoiles,2024-07-07,Sunday,July,True,1314.47
+Monaco,Hotel de Paris,5 étoiles,2024-07-08,Monday,July,False,1212.38
+Monaco,Hotel de Paris,5 étoiles,2024-07-09,Tuesday,July,False,1095.46
+Monaco,Hotel de Paris,5 étoiles,2024-07-10,Wednesday,July,False,1175.89
+Monaco,Hotel de Paris,5 étoiles,2024-07-11,Thursday,July,False,1218.92
+Monaco,Hotel de Paris,5 étoiles,2024-07-12,Friday,July,True,2069.78
+Monaco,Hotel de Paris,5 étoiles,2024-07-13,Saturday,July,True,2276.64
+Monaco,Hotel de Paris,5 étoiles,2024-07-14,Sunday,July,True,2137.03
+Monaco,Hotel de Paris,5 étoiles,2024-07-15,Monday,July,False,2045.32
+Monaco,Hotel de Paris,5 étoiles,2024-07-16,Tuesday,July,False,1865.84
+Monaco,Hotel de Paris,5 étoiles,2024-07-17,Wednesday,July,False,1241.6
+Monaco,Hotel de Paris,5 étoiles,2024-07-18,Thursday,July,False,2127.16
+Monaco,Hotel de Paris,5 étoiles,2024-07-19,Friday,July,True,2296.42
+Monaco,Hotel de Paris,5 étoiles,2024-07-20,Saturday,July,True,2594.5
+Monaco,Hotel de Paris,5 étoiles,2024-07-21,Sunday,July,True,2755.36
+Monaco,Hotel de Paris,5 étoiles,2024-07-22,Monday,July,False,2148.8
+Monaco,Hotel de Paris,5 étoiles,2024-07-23,Tuesday,July,False,1244.69
+Monaco,Hotel de Paris,5 étoiles,2024-07-24,Wednesday,July,False,1259.9
+Monaco,Hotel de Paris,5 étoiles,2024-07-25,Thursday,July,False,1106.37
+Monaco,Hotel de Paris,5 étoiles,2024-07-26,Friday,July,True,1323.14
+Monaco,Hotel de Paris,5 étoiles,2024-07-27,Saturday,July,True,1435.16
+Monaco,Hotel de Paris,5 étoiles,2024-07-28,Sunday,July,True,1379.02
+Monaco,Hotel de Paris,5 étoiles,2024-07-29,Monday,July,False,1249.53
+Monaco,Hotel de Paris,5 étoiles,2024-07-30,Tuesday,July,False,1263.61
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-01,Saturday,June,True,873.62
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-02,Sunday,June,True,852.64
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-03,Monday,June,False,792.08
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-04,Tuesday,June,False,716.22
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-05,Wednesday,June,False,798.39
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-06,Thursday,June,False,738.56
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-07,Friday,June,True,930.16
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-08,Saturday,June,True,827.2
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-09,Sunday,June,True,922.29
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-10,Monday,June,False,742.77
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-11,Tuesday,June,False,762.99
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-12,Wednesday,June,False,2450.71
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-13,Thursday,June,False,2749.36
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-14,Friday,June,True,3378.56
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-15,Saturday,June,True,2971.55
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-16,Sunday,June,True,2895.3
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-17,Monday,June,False,678.55
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-18,Tuesday,June,False,1002.68
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-19,Wednesday,June,False,995.88
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-20,Thursday,June,False,984.11
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-21,Friday,June,True,1107.28
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-22,Saturday,June,True,1144.47
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-23,Sunday,June,True,917.01
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-24,Monday,June,False,749.52
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-25,Tuesday,June,False,823.17
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-26,Wednesday,June,False,695.47
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-27,Thursday,June,False,779.27
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-28,Friday,June,True,882.78
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-29,Saturday,June,True,887.08
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-06-30,Sunday,June,True,939.17
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-01,Monday,July,False,1012.53
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-02,Tuesday,July,False,1499.11
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-03,Wednesday,July,False,1263.55
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-04,Thursday,July,False,1256.92
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-05,Friday,July,True,1711.49
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-06,Saturday,July,True,1663.68
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-07,Sunday,July,True,1117.15
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-08,Monday,July,False,892.99
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-09,Tuesday,July,False,894.2
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-10,Wednesday,July,False,1051.87
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-11,Thursday,July,False,914.91
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-12,Friday,July,True,1805.87
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-13,Saturday,July,True,1769.66
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-14,Sunday,July,True,1817.71
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-15,Monday,July,False,1425.66
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-16,Tuesday,July,False,1565.95
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-17,Wednesday,July,False,890.68
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-18,Thursday,July,False,1860.43
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-19,Friday,July,True,1993.84
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-20,Saturday,July,True,2122.85
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-21,Sunday,July,True,2266.09
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-22,Monday,July,False,1807.96
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-23,Tuesday,July,False,981.43
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-24,Wednesday,July,False,940.75
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-25,Thursday,July,False,942.44
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-26,Friday,July,True,1209.66
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-27,Saturday,July,True,1285.63
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-28,Sunday,July,True,1207.87
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-29,Monday,July,False,986.27
+Monaco,Hermitage Monte Carlo,5 étoiles,2024-07-30,Tuesday,July,False,1019.98
+Monaco,Hotel Metropole,4 étoiles,2024-06-01,Saturday,June,True,536.24
+Monaco,Hotel Metropole,4 étoiles,2024-06-02,Sunday,June,True,492.5
+Monaco,Hotel Metropole,4 étoiles,2024-06-03,Monday,June,False,455.61
+Monaco,Hotel Metropole,4 étoiles,2024-06-04,Tuesday,June,False,491.19
+Monaco,Hotel Metropole,4 étoiles,2024-06-05,Wednesday,June,False,420.78
+Monaco,Hotel Metropole,4 étoiles,2024-06-06,Thursday,June,False,467.1
+Monaco,Hotel Metropole,4 étoiles,2024-06-07,Friday,June,True,507.7
+Monaco,Hotel Metropole,4 étoiles,2024-06-08,Saturday,June,True,543.87
+Monaco,Hotel Metropole,4 étoiles,2024-06-09,Sunday,June,True,496.44
+Monaco,Hotel Metropole,4 étoiles,2024-06-10,Monday,June,False,445.53
+Monaco,Hotel Metropole,4 étoiles,2024-06-11,Tuesday,June,False,473.05
+Monaco,Hotel Metropole,4 étoiles,2024-06-12,Wednesday,June,False,1526.99
+Monaco,Hotel Metropole,4 étoiles,2024-06-13,Thursday,June,False,1626.95
+Monaco,Hotel Metropole,4 étoiles,2024-06-14,Friday,June,True,2001.68
+Monaco,Hotel Metropole,4 étoiles,2024-06-15,Saturday,June,True,2051.47
+Monaco,Hotel Metropole,4 étoiles,2024-06-16,Sunday,June,True,1789.69
+Monaco,Hotel Metropole,4 étoiles,2024-06-17,Monday,June,False,440.94
+Monaco,Hotel Metropole,4 étoiles,2024-06-18,Tuesday,June,False,544.33
+Monaco,Hotel Metropole,4 étoiles,2024-06-19,Wednesday,June,False,642.62
+Monaco,Hotel Metropole,4 étoiles,2024-06-20,Thursday,June,False,634.96
+Monaco,Hotel Metropole,4 étoiles,2024-06-21,Friday,June,True,707.61
+Monaco,Hotel Metropole,4 étoiles,2024-06-22,Saturday,June,True,750.02
+Monaco,Hotel Metropole,4 étoiles,2024-06-23,Sunday,June,True,542.26
+Monaco,Hotel Metropole,4 étoiles,2024-06-24,Monday,June,False,461.12
+Monaco,Hotel Metropole,4 étoiles,2024-06-25,Tuesday,June,False,413.02
+Monaco,Hotel Metropole,4 étoiles,2024-06-26,Wednesday,June,False,472.97
+Monaco,Hotel Metropole,4 étoiles,2024-06-27,Thursday,June,False,416.49
+Monaco,Hotel Metropole,4 étoiles,2024-06-28,Friday,June,True,575.22
+Monaco,Hotel Metropole,4 étoiles,2024-06-29,Saturday,June,True,570.46
+Monaco,Hotel Metropole,4 étoiles,2024-06-30,Sunday,June,True,562.54
+Monaco,Hotel Metropole,4 étoiles,2024-07-01,Monday,July,False,530.73
+Monaco,Hotel Metropole,4 étoiles,2024-07-02,Tuesday,July,False,786.75
+Monaco,Hotel Metropole,4 étoiles,2024-07-03,Wednesday,July,False,780.2
+Monaco,Hotel Metropole,4 étoiles,2024-07-04,Thursday,July,False,796.09
+Monaco,Hotel Metropole,4 étoiles,2024-07-05,Friday,July,True,901.75
+Monaco,Hotel Metropole,4 étoiles,2024-07-06,Saturday,July,True,1068.69
+Monaco,Hotel Metropole,4 étoiles,2024-07-07,Sunday,July,True,709.55
+Monaco,Hotel Metropole,4 étoiles,2024-07-08,Monday,July,False,562.25
+Monaco,Hotel Metropole,4 étoiles,2024-07-09,Tuesday,July,False,572.95
+Monaco,Hotel Metropole,4 étoiles,2024-07-10,Wednesday,July,False,578.82
+Monaco,Hotel Metropole,4 étoiles,2024-07-11,Thursday,July,False,596.77
+Monaco,Hotel Metropole,4 étoiles,2024-07-12,Friday,July,True,1126.72
+Monaco,Hotel Metropole,4 étoiles,2024-07-13,Saturday,July,True,1217.41
+Monaco,Hotel Metropole,4 étoiles,2024-07-14,Sunday,July,True,1122.52
+Monaco,Hotel Metropole,4 étoiles,2024-07-15,Monday,July,False,1028.13
+Monaco,Hotel Metropole,4 étoiles,2024-07-16,Tuesday,July,False,1001.79
+Monaco,Hotel Metropole,4 étoiles,2024-07-17,Wednesday,July,False,550.9
+Monaco,Hotel Metropole,4 étoiles,2024-07-18,Thursday,July,False,1143.68
+Monaco,Hotel Metropole,4 étoiles,2024-07-19,Friday,July,True,1166.65
+Monaco,Hotel Metropole,4 étoiles,2024-07-20,Saturday,July,True,1343.83
+Monaco,Hotel Metropole,4 étoiles,2024-07-21,Sunday,July,True,1233.43
+Monaco,Hotel Metropole,4 étoiles,2024-07-22,Monday,July,False,1132.6
+Monaco,Hotel Metropole,4 étoiles,2024-07-23,Tuesday,July,False,628.06
+Monaco,Hotel Metropole,4 étoiles,2024-07-24,Wednesday,July,False,620.79
+Monaco,Hotel Metropole,4 étoiles,2024-07-25,Thursday,July,False,618.93
+Monaco,Hotel Metropole,4 étoiles,2024-07-26,Friday,July,True,674.58
+Monaco,Hotel Metropole,4 étoiles,2024-07-27,Saturday,July,True,643.16
+Monaco,Hotel Metropole,4 étoiles,2024-07-28,Sunday,July,True,688.38
+Monaco,Hotel Metropole,4 étoiles,2024-07-29,Monday,July,False,546.8
+Monaco,Hotel Metropole,4 étoiles,2024-07-30,Tuesday,July,False,607.81
+Monaco,Novotel Monaco,3 étoiles,2024-06-01,Saturday,June,True,290.77
+Monaco,Novotel Monaco,3 étoiles,2024-06-02,Sunday,June,True,328.54
+Monaco,Novotel Monaco,3 étoiles,2024-06-03,Monday,June,False,257.05
+Monaco,Novotel Monaco,3 étoiles,2024-06-04,Tuesday,June,False,266.12
+Monaco,Novotel Monaco,3 étoiles,2024-06-05,Wednesday,June,False,231.63
+Monaco,Novotel Monaco,3 étoiles,2024-06-06,Thursday,June,False,268.1
+Monaco,Novotel Monaco,3 étoiles,2024-06-07,Friday,June,True,325.37
+Monaco,Novotel Monaco,3 étoiles,2024-06-08,Saturday,June,True,299.22
+Monaco,Novotel Monaco,3 étoiles,2024-06-09,Sunday,June,True,306.38
+Monaco,Novotel Monaco,3 étoiles,2024-06-10,Monday,June,False,263.24
+Monaco,Novotel Monaco,3 étoiles,2024-06-11,Tuesday,June,False,233.74
+Monaco,Novotel Monaco,3 étoiles,2024-06-12,Wednesday,June,False,875.45
+Monaco,Novotel Monaco,3 étoiles,2024-06-13,Thursday,June,False,857.27
+Monaco,Novotel Monaco,3 étoiles,2024-06-14,Friday,June,True,975.74
+Monaco,Novotel Monaco,3 étoiles,2024-06-15,Saturday,June,True,1022.18
+Monaco,Novotel Monaco,3 étoiles,2024-06-16,Sunday,June,True,959.32
+Monaco,Novotel Monaco,3 étoiles,2024-06-17,Monday,June,False,226.29
+Monaco,Novotel Monaco,3 étoiles,2024-06-18,Tuesday,June,False,301.29
+Monaco,Novotel Monaco,3 étoiles,2024-06-19,Wednesday,June,False,355.1
+Monaco,Novotel Monaco,3 étoiles,2024-06-20,Thursday,June,False,328.22
+Monaco,Novotel Monaco,3 étoiles,2024-06-21,Friday,June,True,426.33
+Monaco,Novotel Monaco,3 étoiles,2024-06-22,Saturday,June,True,384.73
+Monaco,Novotel Monaco,3 étoiles,2024-06-23,Sunday,June,True,288.71
+Monaco,Novotel Monaco,3 étoiles,2024-06-24,Monday,June,False,250.31
+Monaco,Novotel Monaco,3 étoiles,2024-06-25,Tuesday,June,False,246.98
+Monaco,Novotel Monaco,3 étoiles,2024-06-26,Wednesday,June,False,230.28
+Monaco,Novotel Monaco,3 étoiles,2024-06-27,Thursday,June,False,257.04
+Monaco,Novotel Monaco,3 étoiles,2024-06-28,Friday,June,True,282.96
+Monaco,Novotel Monaco,3 étoiles,2024-06-29,Saturday,June,True,307.18
+Monaco,Novotel Monaco,3 étoiles,2024-06-30,Sunday,June,True,309.01
+Monaco,Novotel Monaco,3 étoiles,2024-07-01,Monday,July,False,302.38
+Monaco,Novotel Monaco,3 étoiles,2024-07-02,Tuesday,July,False,415.08
+Monaco,Novotel Monaco,3 étoiles,2024-07-03,Wednesday,July,False,480.55
+Monaco,Novotel Monaco,3 étoiles,2024-07-04,Thursday,July,False,451.34
+Monaco,Novotel Monaco,3 étoiles,2024-07-05,Friday,July,True,497.75
+Monaco,Novotel Monaco,3 étoiles,2024-07-06,Saturday,July,True,600.04
+Monaco,Novotel Monaco,3 étoiles,2024-07-07,Sunday,July,True,355.51
+Monaco,Novotel Monaco,3 étoiles,2024-07-08,Monday,July,False,337.68
+Monaco,Novotel Monaco,3 étoiles,2024-07-09,Tuesday,July,False,356.44
+Monaco,Novotel Monaco,3 étoiles,2024-07-10,Wednesday,July,False,308.05
+Monaco,Novotel Monaco,3 étoiles,2024-07-11,Thursday,July,False,301.75
+Monaco,Novotel Monaco,3 étoiles,2024-07-12,Friday,July,True,576.75
+Monaco,Novotel Monaco,3 étoiles,2024-07-13,Saturday,July,True,599.45
+Monaco,Novotel Monaco,3 étoiles,2024-07-14,Sunday,July,True,574.21
+Monaco,Novotel Monaco,3 étoiles,2024-07-15,Monday,July,False,539.98
+Monaco,Novotel Monaco,3 étoiles,2024-07-16,Tuesday,July,False,474.48
+Monaco,Novotel Monaco,3 étoiles,2024-07-17,Wednesday,July,False,325.61
+Monaco,Novotel Monaco,3 étoiles,2024-07-18,Thursday,July,False,643.11
+Monaco,Novotel Monaco,3 étoiles,2024-07-19,Friday,July,True,746.08
+Monaco,Novotel Monaco,3 étoiles,2024-07-20,Saturday,July,True,718.18
+Monaco,Novotel Monaco,3 étoiles,2024-07-21,Sunday,July,True,674.8
+Monaco,Novotel Monaco,3 étoiles,2024-07-22,Monday,July,False,599.5
+Monaco,Novotel Monaco,3 étoiles,2024-07-23,Tuesday,July,False,326.76
+Monaco,Novotel Monaco,3 étoiles,2024-07-24,Wednesday,July,False,320.2
+Monaco,Novotel Monaco,3 étoiles,2024-07-25,Thursday,July,False,301.0
+Monaco,Novotel Monaco,3 étoiles,2024-07-26,Friday,July,True,420.16
+Monaco,Novotel Monaco,3 étoiles,2024-07-27,Saturday,July,True,386.08
+Monaco,Novotel Monaco,3 étoiles,2024-07-28,Sunday,July,True,366.18
+Monaco,Novotel Monaco,3 étoiles,2024-07-29,Monday,July,False,316.4
+Monaco,Novotel Monaco,3 étoiles,2024-07-30,Tuesday,July,False,319.42
+Monaco,Hotel Columbus,2 étoiles,2024-06-01,Saturday,June,True,191.79
+Monaco,Hotel Columbus,2 étoiles,2024-06-02,Sunday,June,True,188.41
+Monaco,Hotel Columbus,2 étoiles,2024-06-03,Monday,June,False,158.08
+Monaco,Hotel Columbus,2 étoiles,2024-06-04,Tuesday,June,False,135.33
+Monaco,Hotel Columbus,2 étoiles,2024-06-05,Wednesday,June,False,147.48
+Monaco,Hotel Columbus,2 étoiles,2024-06-06,Thursday,June,False,149.44
+Monaco,Hotel Columbus,2 étoiles,2024-06-07,Friday,June,True,162.69
+Monaco,Hotel Columbus,2 étoiles,2024-06-08,Saturday,June,True,171.35
+Monaco,Hotel Columbus,2 étoiles,2024-06-09,Sunday,June,True,189.37
+Monaco,Hotel Columbus,2 étoiles,2024-06-10,Monday,June,False,139.11
+Monaco,Hotel Columbus,2 étoiles,2024-06-11,Tuesday,June,False,151.06
+Monaco,Hotel Columbus,2 étoiles,2024-06-12,Wednesday,June,False,495.1
+Monaco,Hotel Columbus,2 étoiles,2024-06-13,Thursday,June,False,473.77
+Monaco,Hotel Columbus,2 étoiles,2024-06-14,Friday,June,True,597.39
+Monaco,Hotel Columbus,2 étoiles,2024-06-15,Saturday,June,True,689.96
+Monaco,Hotel Columbus,2 étoiles,2024-06-16,Sunday,June,True,667.99
+Monaco,Hotel Columbus,2 étoiles,2024-06-17,Monday,June,False,163.79
+Monaco,Hotel Columbus,2 étoiles,2024-06-18,Tuesday,June,False,194.53
+Monaco,Hotel Columbus,2 étoiles,2024-06-19,Wednesday,June,False,179.78
+Monaco,Hotel Columbus,2 étoiles,2024-06-20,Thursday,June,False,196.87
+Monaco,Hotel Columbus,2 étoiles,2024-06-21,Friday,June,True,231.86
+Monaco,Hotel Columbus,2 étoiles,2024-06-22,Saturday,June,True,250.12
+Monaco,Hotel Columbus,2 étoiles,2024-06-23,Sunday,June,True,165.53
+Monaco,Hotel Columbus,2 étoiles,2024-06-24,Monday,June,False,149.65
+Monaco,Hotel Columbus,2 étoiles,2024-06-25,Tuesday,June,False,139.5
+Monaco,Hotel Columbus,2 étoiles,2024-06-26,Wednesday,June,False,144.74
+Monaco,Hotel Columbus,2 étoiles,2024-06-27,Thursday,June,False,157.12
+Monaco,Hotel Columbus,2 étoiles,2024-06-28,Friday,June,True,179.14
+Monaco,Hotel Columbus,2 étoiles,2024-06-29,Saturday,June,True,175.53
+Monaco,Hotel Columbus,2 étoiles,2024-06-30,Sunday,June,True,176.2
+Monaco,Hotel Columbus,2 étoiles,2024-07-01,Monday,July,False,193.42
+Monaco,Hotel Columbus,2 étoiles,2024-07-02,Tuesday,July,False,288.56
+Monaco,Hotel Columbus,2 étoiles,2024-07-03,Wednesday,July,False,294.41
+Monaco,Hotel Columbus,2 étoiles,2024-07-04,Thursday,July,False,297.86
+Monaco,Hotel Columbus,2 étoiles,2024-07-05,Friday,July,True,346.4
+Monaco,Hotel Columbus,2 étoiles,2024-07-06,Saturday,July,True,315.51
+Monaco,Hotel Columbus,2 étoiles,2024-07-07,Sunday,July,True,242.8
+Monaco,Hotel Columbus,2 étoiles,2024-07-08,Monday,July,False,192.57
+Monaco,Hotel Columbus,2 étoiles,2024-07-09,Tuesday,July,False,185.43
+Monaco,Hotel Columbus,2 étoiles,2024-07-10,Wednesday,July,False,208.29
+Monaco,Hotel Columbus,2 étoiles,2024-07-11,Thursday,July,False,177.0
+Monaco,Hotel Columbus,2 étoiles,2024-07-12,Friday,July,True,404.48
+Monaco,Hotel Columbus,2 étoiles,2024-07-13,Saturday,July,True,371.52
+Monaco,Hotel Columbus,2 étoiles,2024-07-14,Sunday,July,True,384.67
+Monaco,Hotel Columbus,2 étoiles,2024-07-15,Monday,July,False,321.94
+Monaco,Hotel Columbus,2 étoiles,2024-07-16,Tuesday,July,False,336.66
+Monaco,Hotel Columbus,2 étoiles,2024-07-17,Wednesday,July,False,200.33
+Monaco,Hotel Columbus,2 étoiles,2024-07-18,Thursday,July,False,359.0
+Monaco,Hotel Columbus,2 étoiles,2024-07-19,Friday,July,True,384.69
+Monaco,Hotel Columbus,2 étoiles,2024-07-20,Saturday,July,True,422.75
+Monaco,Hotel Columbus,2 étoiles,2024-07-21,Sunday,July,True,391.73
+Monaco,Hotel Columbus,2 étoiles,2024-07-22,Monday,July,False,367.67
+Monaco,Hotel Columbus,2 étoiles,2024-07-23,Tuesday,July,False,195.48
+Monaco,Hotel Columbus,2 étoiles,2024-07-24,Wednesday,July,False,202.03
+Monaco,Hotel Columbus,2 étoiles,2024-07-25,Thursday,July,False,177.13
+Monaco,Hotel Columbus,2 étoiles,2024-07-26,Friday,July,True,214.57
+Monaco,Hotel Columbus,2 étoiles,2024-07-27,Saturday,July,True,244.12
+Monaco,Hotel Columbus,2 étoiles,2024-07-28,Sunday,July,True,213.97
+Monaco,Hotel Columbus,2 étoiles,2024-07-29,Monday,July,False,178.28
+Monaco,Hotel Columbus,2 étoiles,2024-07-30,Tuesday,July,False,175.97
